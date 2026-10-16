@@ -1,0 +1,4 @@
+# local-only working files (test brief, drafts, tooling)
+_private/
+node_modules/
+*-clean.pbix

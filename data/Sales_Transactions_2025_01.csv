@@ -1,0 +1,644 @@
+﻿OrderID,OrderDate,ProductID,CustomerID,CustomerName,Region,Channel,SalesRep,Quantity,UnitPrice_USD,DiscountPct,PaymentStatus
+ORD-2025010001,2025-01-15,SKU-1017,CUS-009,Lotte Partner,South,E-commerce,Le Minh,105,97.82,0.0,Paid
+ORD-2025010002,2025-01-05,SKU-1023,CUS-011,An Phu Trading,Central,Wholesale,Bui Quang,209,5.23,0.05,Pending
+ORD-2025010003,2025-01-04,SKU-1020,CUS-010,Circle Retail,South,E-commerce,Bui Quang,136,4.02,0.15,Paid
+ORD-2025010004,2025-01-17,SKU-1013,CUS-002,Hanoi Retail JSC,South,E-commerce,Pham Thuy,55,118.85,0.1,Pending
+ORD-2025010005,2025-01-15,SKU-1026,CUS-015,City Convenience Co.,South,Wholesale,Tran Anh,340,1.74,0.0,Pending
+ORD-2025010006,2025-01-17,SKU-1001,CUS-007,Metro Foods VN,North,General Trade,Hoang Nam,9,136.02,0.0,Paid
+ORD-2025010007,2025-01-31,SKU-1028,CUS-005,Capital Hotel Group,North,Modern Trade,Le Minh,267,1.97,0.15,Paid
+ORD-2025010008,2025-01-08,SKU-1010,CUS-013,Thang Long Spirits,North,General Trade,Vo Lan,,40.37,0.0,Overdue
+ORD-2025010009,2025-01-25,SKU-1012,CUS-013,Thang Long Spirits,South,Wholesale,Le Minh,309,65.18,0.05,Paid
+ORD-2025010010,2025-01-04,SKU-1005,CUS-009,Lotte Partner,Central,On-Premise,Tran Anh,326,83.03,0.1,Paid
+ORD-2025010011,2025-01-31,SKU-1021,CUS-001,Saigon Mart,North,Modern Trade,Hoang Nam,285,1.51,0.05,Overdue
+ORD-2025010012,2025-01-19,SKU-1019,CUS-014,Phu Quoc Resorts,Central,General Trade,Dang Mai,218,59.83,0.0,Paid
+ORD-2025010013,2025-01-30,SKU-1019,CUS-008,Highlands Cafe Chain,South,On-Premise,Dang Mai,57,57.13,0.15,Pending
+ORD-2025010014,2025-01-13,SKU-1026,CUS-013,Thang Long Spirits,North,E-commerce,Pham Thuy,368,1.61,0.0,Paid
+ORD-2025010015,2025-01-18,SKU-1024,CUS-011,An Phu Trading,Central,E-commerce,Tran Anh,316,2.09,0.05,Paid
+ORD-2025010016,2025-01-30,SKU-1021,CUS-002,Hanoi Retail JSC,South,E-commerce,Hoang Nam,111,1.61,0.15,Paid
+ORD-2025010017,2025-01-04,SKU-1036,CUS-013,Thang Long Spirits,North,General Trade,Hoang Nam,73,11.04,0.05,Overdue
+ORD-2025010018,2025-01-22,SKU-1035,CUS-004,Mekong Wholesale,Central,On-Premise,Pham Thuy,203,13.73,0.2,Pending
+ORD-2025010019,2025-01-22,SKU-1031,CUS-006,Coastal Bars Ltd,Central,Modern Trade,Bui Quang,212,2.64,0.2,Overdue
+ORD-2025010020,2025-01-30,SKU-1023,CUS-010,Circle Retail,North,Wholesale,Pham Thuy,134,5.64,0.0,Overdue
+ORD-2025010021,2025-01-05,SKU-1010,CUS-014,Phu Quoc Resorts,Central,General Trade,Tran Anh,198,36.03,0.0,Paid
+ORD-2025010022,2025-01-27,SKU-1035,CUS-007,Metro Foods VN,South,E-commerce,Le Minh,291,15.33,0.0,Paid
+ORD-2025010023,2025-01-15,SKU-1028,CUS-013,Thang Long Spirits,Central,Wholesale,Le Minh,340,1.83,0.05,Paid
+ORD-2025010024,2025-01-01,SKU-1017,CUS-006,Coastal Bars Ltd,North,General Trade,Tran Anh,107,91.62,0.0,Paid
+ORD-2025010025,2025-01-19,SKU-1017,CUS-005,Capital Hotel Group,Central,E-commerce,Bui Quang,250,103.59,0.05,Pending
+ORD-2025010026,2025-01-09,SKU-1039,CUS-002,Hanoi Retail JSC,North,Wholesale,Hoang Nam,261,21.34,0.05,Paid
+ORD-2025010027,2025-01-09,SKU-1039,CUS-012,Bien Dong Imports,NORTH ,Modern Trade,Hoang Nam,312,19.22,0.0,Overdue
+ORD-2025010028,2025-01-08,SKU-1017,CUS-004,Mekong Wholesale,Central,General Trade,Dang Mai,180,86.41,0.15,Paid
+ORD-2025010029,2025-01-04,SKU-1031,CUS-011,An Phu Trading,North,Wholesale,Pham Thuy,321,2.53,0.0,Overdue
+ORD-2025010030,2025-01-14,SKU-1001,CUS-008,Highlands Cafe Chain,North,E-commerce,Dang Mai,246,143.43,0.1,Pending
+ORD-2025010031,2025-01-27,SKU-1028,CUS-009,Lotte Partner,North,General Trade,Dang Mai,79,1.9,0.05,Overdue
+ORD-2025010032,2025-01-17,SKU-1040,CUS-009,Lotte Partner,North,Modern Trade,Dang Mai,342,14.32,0.1,Paid
+ORD-2025010033,2025-01-16,SKU-1004,CUS-006,Coastal Bars Ltd,central,General Trade,Pham Thuy,184,72.48,0.2,Overdue
+ORD-2025010034,2025-01-30,SKU-1031,CUS-006,Coastal Bars Ltd,South,On-Premise,Pham Thuy,356,2.52,0.2,Pending
+ORD-2025010035,2025-01-21,SKU-1035,CUS-004,Mekong Wholesale,North,Modern Trade,Le Minh,116,15.15,0.1,Paid
+ORD-2025010036,2025-01-27,SKU-1020,CUS-004,Mekong Wholesale,South,General Trade,Bui Quang,190,4.36,0.0,Paid
+ORD-2025010037,2025-01-30,SKU-1038,CUS-007,Metro Foods VN,South,Wholesale,Pham Thuy,21,23.38,0.0,Paid
+ORD-2025010038,2025-01-25,SKU-1013,CUS-010,Circle Retail,Ctrl,Wholesale,Vo Lan,182,110.25,0.0,Paid
+ORD-2025010039,2025-01-01,SKU-2086,CUS-002,Hanoi Retail JSC,Central,Modern Trade,Pham Thuy,167,90.67,0.05,Paid
+ORD-2025010040,2025-01-10,SKU-1037,CUS-008,Highlands Cafe Chain,Central,General Trade,Tran Anh,372,8.76,0.0,Paid
+ORD-2025010041,2025-01-19,SKU-1002,CUS-002,Hanoi Retail JSC,North,Wholesale,Le Minh,65,95.44,0.0,Paid
+ORD-2025010042,2025-01-19,SKU-1020,CUS-001,Saigon Mart,Central,E-commerce,Dang Mai,310,4.6,0.05,Paid
+ORD-2025010043,2025-01-31,SKU-1025,CUS-012,Bien Dong Imports,South,On-Premise,Bui Quang,49,2.25,0.05,Overdue
+ORD-2025010044,2025-01-03,  SKU-1029 ,CUS-006,Coastal Bars Ltd,South,Modern Trade,Bui Quang,284,2.8,0.0,Paid
+ORD-2025010045,2025-01-08,SKU-1005,CUS-001,Saigon Mart,North,Modern Trade,Dang Mai,-1,80.93,0.05,Paid
+ORD-2025010046,2025-01-18,SKU-1037,CUS-003,Danang Distribution,Central,E-commerce,Le Minh,181,8.98,0.05,Paid
+ORD-2025010047,2025-01-01,SKU-1006,CUS-004,Mekong Wholesale,South,General Trade,Tran Anh,223,114.12,0.15,Paid
+ORD-2025010048,2025-01-09,SKU-1031,CUS-014,Phu Quoc Resorts,central,Modern Trade,Bui Quang,146,2.67,0.05,Pending
+ORD-2025010049,2025-01-13,SKU-1019,CUS-003,Danang Distribution,North,Modern Trade,Dang Mai,344,57.64,0.2,Pending
+ORD-2025010050,2025-01-20,SKU-1036,CUS-002,Hanoi Retail JSC,South,On-Premise,Bui Quang,380,13.24,0.05,Overdue
+ORD-2025010051,2025-01-25,SKU-1001,CUS-004,Mekong Wholesale,Central,Modern Trade,Dang Mai,153,144.88,0.1,Paid
+ORD-2025010052,2025-01-11,SKU-1025,CUS-001,Saigon Mart,Central,On-Premise,Hoang Nam,31,2.16,0.0,Paid
+ORD-2025010053,2025-01-06,SKU-1002,CUS-006,Coastal Bars Ltd,South,General Trade,Hoang Nam,302,88.17,0.2,Paid
+ORD-2025010054,2025-01-15,SKU-1021,CUS-002,Hanoi Retail JSC,North,Modern Trade,Dang Mai,101,1.53,0.1,Paid
+ORD-2025010055,2025-01-10,SKU-1013,CUS-014,Phu Quoc Resorts,North,Wholesale,Pham Thuy,381,107.6,0.0,Paid
+ORD-2025010056,2025-01-14,SKU-1004,CUS-007,Metro Foods VN,Central,Modern Trade,Tran Anh,184,77.37,0.0,Pending
+ORD-2025010057,2025-01-10,SKU-1034,CUS-007,Metro Foods VN,North,E-commerce,Vo Lan,376,0.96,0.05,Paid
+ORD-2025010058,2025-01-06,SKU-1035,CUS-001,Saigon Mart,Central,Wholesale,Vo Lan,57,14.39,0.15,Pending
+ORD-2025010059,2025-01-08,SKU-1013,CUS-003,Danang Distribution,North,Wholesale,Pham Thuy,209,113.09,0.15,Paid
+ORD-2025010060,2025-01-12,SKU-1006,CUS-002,Hanoi Retail JSC,Central,Modern Trade,Tran Anh,152,98.17,0.05,Paid
+ORD-2025010061,2025-01-04,SKU-1001,CUS-005,Capital Hotel Group,North,On-Premise,Hoang Nam,215,158.1,0.15,Pending
+ORD-2025010062,2025-01-12,SKU-1019,CUS-011,An Phu Trading,CENTRAL ,Wholesale,Pham Thuy,27,61.59,0.15,Overdue
+ORD-2025010063,2025-01-07,SKU-1022,CUS-007,Metro Foods VN,South,Modern Trade,Tran Anh,115,3.22,0.05,Paid
+ORD-2025010064,2025-01-25,SKU-1026,CUS-010,Circle Retail,North,E-commerce,Hoang Nam,124,1.87,0.1,Paid
+ORD-2025010065,2025-01-11,SKU-1004,CUS-011,An Phu Trading,Central,Modern Trade,Pham Thuy,357,74.21,0.15,Pending
+ORD-2025010066,2025-01-06,SKU-1013,CUS-012,Bien Dong Imports,South,Wholesale,Hoang Nam,64,110.32,0.1,Paid
+ORD-2025010067,2025-01-21,SKU-1028,CUS-007,Metro Foods VN,North,Modern Trade,Pham Thuy,268,1.63,0.2,Paid
+ORD-2025010068,2025-01-25,SKU-1008,CUS-012,Bien Dong Imports,North,Modern Trade,Le Minh,349,46.05,0.0,Overdue
+ORD-2025010069,2025-01-29,SKU-1039,CUS-009,Lotte Partner,South,Wholesale,Bui Quang,105,21.3,0.05,Paid
+ORD-2025010070,2025-01-14,SKU-1028,CUS-011,An Phu Trading,South,General Trade,Hoang Nam,74,1.83,0.2,Pending
+ORD-2025010071,2025-01-16,SKU-1033,CUS-006,Coastal Bars Ltd,Central,Wholesale,Pham Thuy,338,2.33,0.0,Pending
+ORD-2025010072,2025-01-04,SKU-1020,CUS-010,Circle Retail,Central,General Trade,Tran Anh,187,4.51,0.05,Paid
+ORD-2025010073,2025-01-27,SKU-1015,CUS-001,Saigon Mart,Central,E-commerce,Tran Anh,59,94.3,0.05,Overdue
+ORD-2025010074,2025-01-09,SKU-1008,CUS-007,Metro Foods VN,Central,General Trade,Dang Mai,254,42.27,0.0,Paid
+ORD-2025010075,2025-01-28,SKU-1019,CUS-002,Hanoi Retail JSC,Central,Modern Trade,Hoang Nam,223,59.87,0.0,Overdue
+ORD-2025010076,2025-01-01,SKU-1040,CUS-011,An Phu Trading,South,General Trade,Pham Thuy,122,13.64,0.05,Pending
+ORD-2025010077,2025-01-11,SKU-1027,CUS-013,Thang Long Spirits,South,On-Premise,Tran Anh,300,2.41,0.0,Paid
+ORD-2025010078,2025-01-18,SKU-1036,CUS-005,Capital Hotel Group,Ctrl,On-Premise,Le Minh,94,11.09,0.0,Paid
+ORD-2025010079,2025-01-21,SKU-1015,CUS-003,Danang Distribution,North,Wholesale,Hoang Nam,217,94.39,0.05,Pending
+ORD-2025010080,2025-01-19,SKU-1010,CUS-009,Lotte Partner,South,General Trade,Pham Thuy,167,36.32,0.0,Pending
+ORD-2025010081,2025-01-03,SKU-1007,CUS-003,Danang Distribution,North,General Trade,Bui Quang,59,46.67,0.0,Overdue
+ORD-2025010082,2025-01-30,SKU-1040,CUS-010,Circle Retail,North,Wholesale,Pham Thuy,104,14.08,0.1,Paid
+ORD-2025010083,2025-01-23,SKU-1022,CUS-001,Saigon Mart,Central,On-Premise,Pham Thuy,170,3.54,0.0,Paid
+ORD-2025010084,2025-01-24,SKU-1012,CUS-007,Metro Foods VN,Central,Wholesale,Le Minh,148,74.38,0.0,Pending
+ORD-2025010085,2025-01-06,SKU-1004,CUS-008,Highlands Cafe Chain,SOUTH ,Wholesale,Pham Thuy,89,76.51,0.0,Paid
+ORD-2025010086,2025-01-28,SKU-1004,CUS-008,Highlands Cafe Chain,North,E-commerce,Dang Mai,76,71.51,0.0,Paid
+ORD-2025010087,2025-01-09,SKU-1017,CUS-004,Mekong Wholesale,North,Wholesale,Bui Quang,47,87.89,0.0,Overdue
+ORD-2025010088,2025-01-30,SKU-1031,CUS-003,Danang Distribution,SOUTH ,General Trade,Pham Thuy,29,2.63,0.0,Overdue
+ORD-2025010089,2025-01-06,SKU-1014,CUS-008,Highlands Cafe Chain,North,Wholesale,Bui Quang,162,31.39,0.0,Paid
+ORD-2025010090,2025-01-31,SKU-1004,CUS-009,Lotte Partner,Central,On-Premise,Hoang Nam,321,72.04,0.1,Pending
+ORD-2025010091,2025-01-11,SKU-1039,CUS-009,Lotte Partner,North,E-commerce,Pham Thuy,131,17.71,0.0,Paid
+ORD-2025010092,2025-01-16,SKU-1029,CUS-012,Bien Dong Imports,Central,On-Premise,Tran Anh,212,2.68,0.15,Overdue
+ORD-2025010093,2025-01-02,SKU-1034,CUS-006,Coastal Bars Ltd,south,On-Premise,Vo Lan,20,0.94,0.0,Pending
+ORD-2025010094,2025-01-05,SKU-1035,CUS-007,Metro Foods VN,North,Wholesale,Pham Thuy,352,13.61,0.2,Pending
+ORD-2025010095,2025-01-05,SKU-1006,CUS-008,Highlands Cafe Chain,North,Wholesale,Bui Quang,342,117.62,0.05,Paid
+ORD-2025010096,2025-01-04,SKU-1004,CUS-004,Mekong Wholesale,Central,E-commerce,Vo Lan,364,67.8,0.05,Overdue
+ORD-2025010097,2025-01-25,SKU-1003,CUS-005,Capital Hotel Group,south,Wholesale,Dang Mai,210,130.58,0.1,Pending
+ORD-2025010098,2025-01-04,SKU-1016,CUS-009,Lotte Partner,Central,Wholesale,Tran Anh,181,37.4,0.0,Paid
+ORD-2025010099,2025-01-30,SKU-1009,CUS-013,Thang Long Spirits,North,Modern Trade,Dang Mai,349,91.97,0.0,Paid
+ORD-2025010100,2025-01-07,SKU-1022,CUS-010,Circle Retail,North,On-Premise,Pham Thuy,211,3.74,0.2,Overdue
+ORD-2025010101,2025-01-04,SKU-1001,CUS-013,Thang Long Spirits,South,On-Premise,Dang Mai,229,134.54,0.0,Overdue
+ORD-2025010102,2025-01-09,SKU-1013,CUS-003,Danang Distribution,South,E-commerce,Dang Mai,55,120.31,0.1,Paid
+ORD-2025010103,2025-01-30,SKU-1038,CUS-012,Bien Dong Imports,Central,On-Premise,Tran Anh,388,23.39,0.15,Paid
+ORD-2025010104,2025-01-09,SKU-1015,CUS-011,An Phu Trading,North,E-commerce,Hoang Nam,81,89.57,0.2,Overdue
+ORD-2025010105,2025-01-07,SKU-1033,CUS-004,Mekong Wholesale,Central,Wholesale,Le Minh,98,2.0,0.0,Paid
+ORD-2025010106,2025-01-05,SKU-1023,CUS-010,Circle Retail,Central,On-Premise,Bui Quang,345,5.5,0.05,Paid
+ORD-2025010107,2025-01-03,SKU-1017,CUS-007,Metro Foods VN,South,General Trade,Le Minh,218,98.56,0.0,Pending
+ORD-2025010108,2025-01-06,SKU-1018,CUS-014,Phu Quoc Resorts,North,E-commerce,Tran Anh,329,24.11,0.0,Overdue
+ORD-2025010109,2025-01-14,SKU-1004,CUS-008,Highlands Cafe Chain,Sth,On-Premise,Bui Quang,239,66.75,0.05,Overdue
+ORD-2025010110,2025-01-01,SKU-1019,CUS-011,An Phu Trading,North,E-commerce,Vo Lan,300,62.36,0.15,Pending
+ORD-2025010111,2025-01-20,SKU-1018,CUS-010,Circle Retail,South,Wholesale,Vo Lan,172,25.26,0.05,Paid
+ORD-2025010112,2025-01-17,SKU-1009,CUS-006,Coastal Bars Ltd,North,Modern Trade,Bui Quang,93,102.29,0.2,Overdue
+ORD-2025010113,2025-01-05,SKU-1017,CUS-005,Capital Hotel Group,North,Wholesale,Tran Anh,284,95.05,0.15,Paid
+ORD-2025010114,2025-01-13,SKU-1012,CUS-011,An Phu Trading,Central,Modern Trade,Le Minh,172,76.95,0.05,Paid
+ORD-2025010115,2025-01-14,SKU-1012,CUS-004,Mekong Wholesale,North,Modern Trade,Pham Thuy,159,69.33,0.0,Paid
+ORD-2025010116,2025-01-12,SKU-1005,CUS-013,Thang Long Spirits,Central,On-Premise,Bui Quang,28,85.66,0.2,Pending
+ORD-2025010117,2025-01-31,SKU-1018,CUS-014,Phu Quoc Resorts,Central,E-commerce,Bui Quang,-17,23.59,0.05,Paid
+ORD-2025010118,2025-01-18,SKU-1026,CUS-013,Thang Long Spirits,South,General Trade,Le Minh,339,1.85,0.0,Paid
+ORD-2025010119,2025-01-04,SKU-1017,CUS-010,Circle Retail,South,Wholesale,Hoang Nam,247,86.6,0.0,Pending
+ORD-2025010120,2025-01-30,SKU-1003,CUS-013,Thang Long Spirits,South,Modern Trade,Tran Anh,325,129.89,0.0,Pending
+ORD-2025010121,2025-01-31,SKU-1033,CUS-006,Coastal Bars Ltd,South,Modern Trade,Hoang Nam,394,2.33,0.05,Paid
+ORD-2025010122,2025-01-12,SKU-2021,CUS-009,Lotte Partner,Central,Wholesale,Le Minh,87,0.95,0.0,Paid
+ORD-2025010123,2025-01-13,SKU-1006,CUS-006,Coastal Bars Ltd,North,Modern Trade,Hoang Nam,194,113.31,0.0,Overdue
+ORD-2025010124,2025-01-06,SKU-1017,CUS-002,Hanoi Retail JSC,North,Modern Trade,Bui Quang,387,89.16,0.0,Paid
+ORD-2025010125,2025-01-15,SKU-1008,CUS-012,Bien Dong Imports,Central,Wholesale,Vo Lan,113,48.56,0.05,Paid
+ORD-2025010126,2025-01-29,SKU-1009,CUS-004,Mekong Wholesale,North,E-commerce,Vo Lan,176,100.22,0.15,Paid
+ORD-2025010127,2025-01-27,SKU-1021,CUS-001,Saigon Mart,Central,General Trade,Hoang Nam,305,1.76,0.0,Pending
+ORD-2025010128,2025-01-31,SKU-1018,CUS-015,City Convenience Co.,South,Modern Trade,Bui Quang,250,24.08,0.0,Pending
+ORD-2025010129,2025-01-16,SKU-1035,CUS-006,Coastal Bars Ltd,South,Wholesale,Bui Quang,295,13.36,0.0,Pending
+ORD-2025010130,2025-01-15,SKU-1039,CUS-003,Danang Distribution,South,General Trade,Vo Lan,265,19.0,0.05,Pending
+ORD-2025010131,2025-01-28,SKU-1021,CUS-012,Bien Dong Imports,Central,Wholesale,Bui Quang,124,1.65,0.0,Pending
+ORD-2025010132,2025-01-29,SKU-1034,CUS-014,Phu Quoc Resorts,South,E-commerce,Hoang Nam,192,0.94,0.0,Overdue
+ORD-2025010133,2025-01-13,SKU-1035,CUS-001,Saigon Mart,Central,General Trade,Tran Anh,299,14.39,0.05,Pending
+ORD-2025010134,2025-01-25,sku-1010,CUS-006,Coastal Bars Ltd,South,Modern Trade,Vo Lan,151,39.07,0.1,Paid
+ORD-2025010135,2025-01-20,SKU-1001,CUS-014,Phu Quoc Resorts,North,General Trade,Le Minh,60,161.33,0.15,Paid
+ORD-2025010136,2025-01-26,SKU-1007,CUS-003,Danang Distribution,Nth,Modern Trade,Dang Mai,39,48.55,0.0,Paid
+ORD-2025010137,2025-01-25,SKU-1017,CUS-014,Phu Quoc Resorts,Central,On-Premise,Pham Thuy,181,88.85,0.05,Pending
+ORD-2025010138,2025-01-25,SKU-1010,CUS-012,Bien Dong Imports,South,Wholesale,Vo Lan,260,37.89,0.15,Pending
+ORD-2025010139,2025-01-07,SKU-1026,CUS-014,Phu Quoc Resorts,South,On-Premise,Pham Thuy,223,1.75,0.2,Paid
+ORD-2025010140,2025-01-11,SKU-1028,CUS-010,Circle Retail,North,Modern Trade,Pham Thuy,176,1.91,0.0,Pending
+ORD-2025010141,2025-01-08,SKU-1019,CUS-009,Lotte Partner,South,On-Premise,Le Minh,249,58.36,0.1,Pending
+ORD-2025010142,2025-01-31,SKU-1031,CUS-011,An Phu Trading,Central,General Trade,Hoang Nam,225,2.3,0.05,Paid
+ORD-2025010143,2025-01-07,SKU-1024,CUS-001,Saigon Mart,Central,E-commerce,Vo Lan,17,2.22,0.2,Paid
+ORD-2025010144,2025-01-13,SKU-1025,CUS-005,Capital Hotel Group,Central,Modern Trade,Tran Anh,103,2.51,0.2,Paid
+ORD-2025010145,2025-01-31,SKU-1029,CUS-005,Capital Hotel Group,South,General Trade,Bui Quang,397,2.66,0.1,Overdue
+ORD-2025010146,2025-01-13,SKU-1038,CUS-011,An Phu Trading,South,Wholesale,Hoang Nam,100,25.09,0.2,Overdue
+ORD-2025010147,2025-01-09,SKU-1026,CUS-009,Lotte Partner,North,On-Premise,Pham Thuy,166,1.65,0.05,Paid
+ORD-2025010148,2025-01-14,SKU-1008,CUS-001,Saigon Mart,North,Wholesale,Hoang Nam,74,45.87,0.0,Overdue
+ORD-2025010149,2025-01-09,SKU-1001,CUS-001,Saigon Mart,South,Modern Trade,Le Minh,66,146.39,0.05,Paid
+ORD-2025010150,2025-01-15,SKU-2054,CUS-003,Danang Distribution,Central,Wholesale,Vo Lan,64,2.31,0.0,Paid
+ORD-2025010151,2025-01-30,SKU-1039,CUS-014,Phu Quoc Resorts,Central,E-commerce,Tran Anh,294,17.4,0.0,Paid
+ORD-2025010152,2025-01-14,SKU-1010,CUS-010,Circle Retail,Central,Wholesale,Le Minh,45,37.38,0.0,Paid
+ORD-2025010153,2025-01-27,SKU-1009,CUS-002,Hanoi Retail JSC,North,On-Premise,Dang Mai,177,101.68,0.0,Paid
+ORD-2025010154,2025-01-30,SKU-1036,CUS-012,Bien Dong Imports,North,Wholesale,Tran Anh,222,12.59,0.2,Pending
+ORD-2025010155,2025-01-15,SKU-1017,CUS-010,Circle Retail,South,E-commerce,Bui Quang,77,91.71,0.15,Overdue
+ORD-2025010156,2025-01-31,SKU-1001,CUS-006,Coastal Bars Ltd,Central,General Trade,Vo Lan,377,159.39,0.1,Paid
+ORD-2025010157,2025-01-07,SKU-1035,CUS-008,Highlands Cafe Chain,South,Modern Trade,Vo Lan,259,14.82,0.2,Overdue
+ORD-2025010158,2025-01-11,SKU-1017,CUS-008,Highlands Cafe Chain,North,General Trade,Le Minh,339,94.41,0.15,Overdue
+ORD-2025010159,2025-01-08,SKU-1026,CUS-011,An Phu Trading,Central,General Trade,Tran Anh,78,1.58,0.1,Paid
+ORD-2025010160,2025-01-14,SKU-1022,CUS-008,Highlands Cafe Chain,Central,Modern Trade,Pham Thuy,152,3.14,0.05,Paid
+ORD-2025010161,2025-01-11,SKU-1019,CUS-001,Saigon Mart,Central,General Trade,Vo Lan,62,57.05,0.0,Pending
+ORD-2025010162,2025-01-04,sku-1034,CUS-015,City Convenience Co.,South,E-commerce,Dang Mai,117,1.14,0.2,Overdue
+ORD-2025010163,2025-01-23,SKU-1002,CUS-009,Lotte Partner,North,Modern Trade,Dang Mai,80,90.58,0.0,Paid
+ORD-2025010164,2025-01-15,SKU-1012,CUS-008,Highlands Cafe Chain,North,Modern Trade,Dang Mai,109,71.0,0.0,Overdue
+ORD-2025010165,2025-01-23,SKU-1021,CUS-014,Phu Quoc Resorts,Central,Modern Trade,Hoang Nam,55,1.63,0.0,Overdue
+ORD-2025010166,2025-01-31,SKU-1028,CUS-005,Capital Hotel Group,Central,General Trade,Bui Quang,273,1.72,0.05,Paid
+ORD-2025010167,2025-01-13,SKU-1015,CUS-010,Circle Retail,Central,Modern Trade,Vo Lan,109,87.16,0.0,Paid
+ORD-2025010168,2025-01-16,SKU-1039,CUS-004,Mekong Wholesale,Central,Modern Trade,Dang Mai,375,20.23,0.1,Overdue
+ORD-2025010169,2025-01-16,SKU-1014,CUS-013,Thang Long Spirits,Central,On-Premise,Vo Lan,142,29.45,0.0,Overdue
+ORD-2025010170,2025-01-04,SKU-1014,CUS-005,Capital Hotel Group,Central,General Trade,Dang Mai,154,31.43,0.0,Paid
+ORD-2025010171,2025-01-19,SKU-1001,CUS-009,Lotte Partner,South,Modern Trade,Hoang Nam,320,156.43,0.05,Pending
+ORD-2025010172,2025-01-27,SKU-1007,CUS-007,Metro Foods VN,South,Wholesale,Le Minh,372,50.46,0.0,Paid
+ORD-2025010173,2025-01-09,SKU-1026,CUS-012,Bien Dong Imports,South,On-Premise,Bui Quang,142,1.55,0.0,Pending
+ORD-2025010174,2025-01-14,SKU-1039,CUS-006,Coastal Bars Ltd,North,Wholesale,Dang Mai,358,19.37,0.0,Paid
+ORD-2025010175,2025-01-15,SKU-1010,CUS-012,Bien Dong Imports,Central,On-Premise,Pham Thuy,195,41.86,0.15,Paid
+ORD-2025010176,2025-01-30,SKU-1007,CUS-003,Danang Distribution,Central,Modern Trade,Pham Thuy,235,43.88,0.0,Paid
+ORD-2025010177,2025-01-12,SKU-1029,CUS-003,Danang Distribution,Sth,On-Premise,Hoang Nam,121,2.82,0.0,Paid
+ORD-2025010178,2025-01-28,SKU-1010,CUS-005,Capital Hotel Group,Central,E-commerce,Hoang Nam,66,39.12,0.0,Overdue
+ORD-2025010179,2025-01-08,SKU-1020,CUS-014,Phu Quoc Resorts,North,E-commerce,Dang Mai,141,4.15,0.0,Paid
+ORD-2025010180,2025-01-06,SKU-1035,CUS-004,Mekong Wholesale,central,Modern Trade,Le Minh,263,13.08,0.15,Overdue
+ORD-2025010181,2025-01-28,SKU-1031,CUS-013,Thang Long Spirits,North,Wholesale,Hoang Nam,189,2.34,0.0,Pending
+ORD-2025010182,2025-01-12,SKU-1028,CUS-004,Mekong Wholesale,North,General Trade,Vo Lan,215,1.85,0.0,Overdue
+ORD-2025010183,2025-01-10,SKU-1021,CUS-006,Coastal Bars Ltd,North,Wholesale,Vo Lan,217,1.64,0.2,Paid
+ORD-2025010184,2025-01-04,SKU-1002,CUS-008,Highlands Cafe Chain,South,Wholesale,Dang Mai,246,101.38,0.0,Paid
+ORD-2025010185,2025-01-04,SKU-1023,CUS-012,Bien Dong Imports,Central,Modern Trade,Tran Anh,359,5.19,0.0,Paid
+ORD-2025010186,2025-01-28,SKU-1004,CUS-003,Danang Distribution,North,Wholesale,Vo Lan,246,66.57,0.0,Pending
+ORD-2025010187,2025-01-20,SKU-1002,CUS-015,City Convenience Co.,South,General Trade,Hoang Nam,99,94.5,0.05,Paid
+ORD-2025010188,2025-01-14,SKU-1026,CUS-014,Phu Quoc Resorts,South,Modern Trade,Le Minh,76,1.59,0.0,Pending
+ORD-2025010189,2025-01-26,SKU-1020,CUS-015,City Convenience Co.,North,E-commerce,Le Minh,120,3.96,0.0,Paid
+ORD-2025010190,2025-01-18,SKU-1034,CUS-009,Lotte Partner,North,Wholesale,Bui Quang,174,1.02,0.05,Paid
+ORD-2025010191,2025-01-21,SKU-1003,CUS-008,Highlands Cafe Chain,South,Modern Trade,Bui Quang,5,128.38,0.0,Paid
+ORD-2025010192,2025-01-01,SKU-1022,CUS-013,Thang Long Spirits,Central,On-Premise,Tran Anh,319,3.86,0.05,Paid
+ORD-2025010193,2025-01-18,SKU-1034,CUS-002,Hanoi Retail JSC,South,Wholesale,Vo Lan,306,1.05,0.0,Paid
+ORD-2025010194,2025-01-15,SKU-1028,CUS-005,Capital Hotel Group,South,General Trade,Bui Quang,349,1.89,0.2,Overdue
+ORD-2025010195,2025-01-04,SKU-2011,CUS-001,Saigon Mart,North,E-commerce,Tran Anh,22,40.26,0.0,Pending
+ORD-2025010196,2025-01-27,SKU-1015,CUS-003,Danang Distribution,South,General Trade,Tran Anh,204,102.47,0.0,Pending
+ORD-2025010197,2025-01-24,SKU-1016,CUS-013,Thang Long Spirits,Central,On-Premise,Dang Mai,135,44.95,0.05,Paid
+ORD-2025010198,2025-01-07,SKU-1022,CUS-006,Coastal Bars Ltd,North,Modern Trade,Le Minh,341,3.69,0.2,Overdue
+ORD-2025010199,2025-01-04,SKU-1038,CUS-011,An Phu Trading,North,E-commerce,Tran Anh,304,24.04,0.05,Paid
+ORD-2025010200,2025-01-29,SKU-1028,CUS-003,Danang Distribution,Central,E-commerce,Bui Quang,155,1.83,0.2,Paid
+ORD-2025010201,2025-01-15,SKU-1003,CUS-001,Saigon Mart,South,On-Premise,Pham Thuy,264,149.13,0.15,Pending
+ORD-2025010202,2025-01-30,SKU-1022,CUS-002,Hanoi Retail JSC,North,Wholesale,Dang Mai,224,3.29,0.1,Paid
+ORD-2025010203,2025-01-23,SKU-1016,CUS-009,Lotte Partner,North,General Trade,Bui Quang,346,39.74,0.0,Paid
+ORD-2025010204,2025-01-25,SKU-1006,CUS-014,Phu Quoc Resorts,South,Wholesale,Tran Anh,378,106.27,0.0,Overdue
+ORD-2025010205,2025-01-24,SKU-1023,CUS-002,Hanoi Retail JSC,South,Wholesale,Tran Anh,25,5.71,0.2,Paid
+ORD-2025010206,2025-01-20,SKU-1009,CUS-003,Danang Distribution,North,E-commerce,Dang Mai,201,101.98,0.15,Pending
+ORD-2025010207,2025-01-30,SKU-1032,CUS-010,Circle Retail,South,On-Premise,Tran Anh,43,3.09,0.0,Paid
+ORD-2025010208,2025-01-29,SKU-1022,CUS-006,Coastal Bars Ltd,Central,E-commerce,Vo Lan,120,3.79,0.2,Overdue
+ORD-2025010209,2025-01-26,SKU-1022,CUS-010,Circle Retail,central,E-commerce,Le Minh,383,3.41,0.0,Paid
+ORD-2025010210,2025-01-26,SKU-1021,CUS-008,Highlands Cafe Chain,Central,Modern Trade,Hoang Nam,355,1.55,0.05,Overdue
+ORD-2025010211,2025-01-10,SKU-1010,CUS-008,Highlands Cafe Chain,South,Wholesale,Hoang Nam,278,39.19,0.15,Paid
+ORD-2025010212,2025-01-26,SKU-1025,CUS-004,Mekong Wholesale,Central,General Trade,Pham Thuy,193,2.58,0.0,Paid
+ORD-2025010213,2025-01-01,SKU-1026,CUS-012,Bien Dong Imports,Central,On-Premise,Tran Anh,280,1.86,0.05,Paid
+ORD-2025010214,2025-01-09,SKU-1034,CUS-006,Coastal Bars Ltd,North,Wholesale,Pham Thuy,85,1.1,0.0,Pending
+ORD-2025010215,2025-01-28,SKU-1035,CUS-002,Hanoi Retail JSC,South,Wholesale,Pham Thuy,165,14.03,0.15,Pending
+ORD-2025010216,2025-01-17,SKU-1019,CUS-002,Hanoi Retail JSC,North,Wholesale,Tran Anh,315,61.91,0.1,Paid
+ORD-2025010217,2025-01-16,SKU-1004,CUS-005,Capital Hotel Group,North,Modern Trade,Hoang Nam,330,80.85,0.0,Paid
+ORD-2025010218,2025-01-19,SKU-1038,CUS-011,An Phu Trading,Central,Modern Trade,Pham Thuy,269,25.53,0.0,Paid
+ORD-2025010219,2025-01-20,SKU-1008,CUS-007,Metro Foods VN,Central,General Trade,Pham Thuy,83,45.11,0.0,Overdue
+ORD-2025010220,2025-01-09,SKU-1013,CUS-014,Phu Quoc Resorts,South,Modern Trade,Bui Quang,31,118.0,0.2,Paid
+ORD-2025010221,2025-01-15,SKU-1008,CUS-006,Coastal Bars Ltd,Central,Modern Trade,Pham Thuy,337,42.04,0.0,Paid
+ORD-2025010222,2025-01-18,SKU-1033,CUS-012,Bien Dong Imports,Central,General Trade,Vo Lan,228,2.24,0.05,Paid
+ORD-2025010223,2025-01-16,SKU-1032,CUS-013,Thang Long Spirits,North,General Trade,Vo Lan,342,3.18,0.15,Pending
+ORD-2025010224,2025-01-12,SKU-1010,CUS-008,Highlands Cafe Chain,Central,General Trade,Pham Thuy,28,36.71,0.2,Overdue
+ORD-2025010225,2025-01-26,SKU-1038,CUS-006,Coastal Bars Ltd,South,E-commerce,Le Minh,158,23.45,0.05,Overdue
+ORD-2025010226,2025-01-10,SKU-1009,CUS-013,Thang Long Spirits,South,General Trade,Tran Anh,331,93.39,0.0,Paid
+ORD-2025010227,2025-01-31,SKU-1018,CUS-009,Lotte Partner,South,Wholesale,Vo Lan,167,25.51,0.0,Paid
+ORD-2025010228,2025-01-05,SKU-2070,CUS-005,Capital Hotel Group,North,On-Premise,Hoang Nam,112,41.12,0.0,Pending
+ORD-2025010229,2025-01-03,SKU-1023,CUS-009,Lotte Partner,North,Wholesale,Pham Thuy,192,5.68,0.15,Overdue
+ORD-2025010230,2025-01-02,SKU-1002,CUS-011,An Phu Trading,North,Modern Trade,Pham Thuy,320,97.52,0.05,Paid
+ORD-2025010231,2025-01-14,SKU-1026,CUS-009,Lotte Partner,Nth,On-Premise,Dang Mai,204,1.89,0.05,Paid
+ORD-2025010232,2025-01-06,SKU-1009,CUS-014,Phu Quoc Resorts,North,E-commerce,Vo Lan,261,86.16,0.05,Paid
+ORD-2025010233,2025-01-25,SKU-1004,CUS-005,Capital Hotel Group,North,General Trade,Vo Lan,286,78.93,0.05,Pending
+ORD-2025010234,2025-01-03,SKU-1009,CUS-015,City Convenience Co.,North,On-Premise,Bui Quang,144,103.12,0.0,Paid
+ORD-2025010235,2025-01-19,SKU-1003,CUS-005,Capital Hotel Group,North,On-Premise,Bui Quang,319,151.59,0.0,Paid
+ORD-2025010236,2025-01-22,SKU-1018,CUS-001,Saigon Mart,Central,General Trade,Tran Anh,176,24.97,0.05,Paid
+ORD-2025010237,2025-01-28,SKU-1039,CUS-001,Saigon Mart,Central,Wholesale,Bui Quang,211,19.21,0.1,Paid
+ORD-2025010238,2025-01-26,SKU-1015,CUS-010,Circle Retail,Central,General Trade,Vo Lan,23,95.27,0.15,Paid
+ORD-2025010239,2025-01-24,SKU-1008,CUS-009,Lotte Partner,North,E-commerce,Pham Thuy,251,42.74,0.05,Paid
+ORD-2025010240,2025-01-24,SKU-1019,CUS-010,Circle Retail,North,E-commerce,Dang Mai,168,53.17,0.05,Paid
+ORD-2025010241,2025-01-26,SKU-1005,CUS-005,Capital Hotel Group,south,E-commerce,Vo Lan,356,73.13,0.05,Overdue
+ORD-2025010242,2025-01-07,SKU-1006,CUS-007,Metro Foods VN,Central,Modern Trade,Tran Anh,41,110.06,0.0,Paid
+ORD-2025010243,2025-01-13,SKU-1001,CUS-011,An Phu Trading,North,Wholesale,Dang Mai,230,135.33,0.05,Paid
+ORD-2025010244,2025-01-31,SKU-1036,CUS-010,Circle Retail,North,General Trade,Pham Thuy,63,12.68,0.0,Overdue
+ORD-2025010245,2025-01-19,SKU-1003,CUS-010,Circle Retail,South,On-Premise,Hoang Nam,65,132.97,0.1,Paid
+ORD-2025010246,2025-01-27,SKU-1012,CUS-011,An Phu Trading,Central,Modern Trade,Le Minh,271,74.96,0.05,Paid
+ORD-2025010247,2025-01-15,SKU-1015,CUS-009,Lotte Partner,North,E-commerce,Dang Mai,370,88.11,0.1,Overdue
+ORD-2025010248,2025-01-08,SKU-1006,CUS-015,City Convenience Co.,North,Wholesale,Vo Lan,117,115.79,0.0,Overdue
+ORD-2025010249,2025-01-21,SKU-1036,CUS-003,Danang Distribution,North,E-commerce,Hoang Nam,82,11.64,0.0,Pending
+ORD-2025010250,2025-01-29,SKU-1026,CUS-015,City Convenience Co.,South,On-Premise,Dang Mai,219,1.74,0.2,Paid
+ORD-2025010251,2025-01-08,SKU-1019,CUS-004,Mekong Wholesale,South,On-Premise,Bui Quang,81,62.59,0.1,Paid
+ORD-2025010252,2025-01-20,SKU-1031,CUS-002,Hanoi Retail JSC,North,Modern Trade,Hoang Nam,28,2.53,0.05,Pending
+ORD-2025010253,2025-01-29,SKU-1034,CUS-014,Phu Quoc Resorts,Central,Wholesale,Vo Lan,57,1.12,0.0,Pending
+ORD-2025010254,2025-01-19,SKU-1012,CUS-012,Bien Dong Imports,Central,E-commerce,Hoang Nam,48,69.02,0.0,Overdue
+ORD-2025010255,2025-01-16,SKU-1031,CUS-014,Phu Quoc Resorts,South,General Trade,Le Minh,234,2.6,0.0,Paid
+ORD-2025010256,2025-01-15,SKU-1007,CUS-005,Capital Hotel Group,Central,General Trade,Le Minh,242,43.37,0.0,Paid
+ORD-2025010257,2025-01-12,SKU-1010,CUS-011,An Phu Trading,central,General Trade,Tran Anh,232,41.69,0.1,Paid
+ORD-2025010258,2025-01-14,SKU-1009,CUS-015,City Convenience Co.,North,E-commerce,Bui Quang,103,96.24,0.0,Pending
+ORD-2025010259,2025-01-19,SKU-1025,CUS-003,Danang Distribution,North,On-Premise,Tran Anh,96,2.53,0.05,Paid
+ORD-2025010260,2025-01-12,SKU-1037,CUS-007,Metro Foods VN,North,E-commerce,Pham Thuy,11,8.78,0.0,Overdue
+ORD-2025010261,2025-01-01,SKU-1037,CUS-002,Hanoi Retail JSC,Central,General Trade,Tran Anh,93,8.85,0.0,Paid
+ORD-2025010262,2025-01-10,SKU-1019,CUS-007,Metro Foods VN,South,Wholesale,Tran Anh,366,57.59,0.2,Paid
+ORD-2025010263,2025-01-09,SKU-1004,CUS-003,Danang Distribution,North,General Trade,Tran Anh,26,76.45,0.2,Paid
+ORD-2025010264,2025-01-11,SKU-1018,CUS-003,Danang Distribution,North,General Trade,Pham Thuy,285,24.73,0.0,Paid
+ORD-2025010265,2025-01-24,SKU-1027,CUS-010,Circle Retail,North,Wholesale,Pham Thuy,317,2.24,0.05,Paid
+ORD-2025010266,2025-01-04,SKU-1029,CUS-015,City Convenience Co.,North,Wholesale,Vo Lan,21,2.77,0.05,Paid
+ORD-2025010267,2025-01-03,SKU-1032,CUS-009,Lotte Partner,North,Modern Trade,Le Minh,112,3.48,0.15,Paid
+ORD-2025010268,2025-01-27,SKU-1014,CUS-001,Saigon Mart,North,General Trade,Pham Thuy,78,29.57,0.15,Overdue
+ORD-2025010269,2025-01-15,SKU-1013,CUS-015,City Convenience Co.,North,Modern Trade,Vo Lan,30,102.22,0.1,Overdue
+ORD-2025010270,2025-01-19,SKU-1027,CUS-011,An Phu Trading,Central,Wholesale,Pham Thuy,20,1.99,0.0,Paid
+ORD-2025010271,2025-01-20,SKU-1038,CUS-013,Thang Long Spirits,NORTH ,Wholesale,Le Minh,376,22.56,0.1,Paid
+ORD-2025010272,2025-01-07,SKU-1010,CUS-009,Lotte Partner,North,E-commerce,Tran Anh,224,43.08,0.05,Pending
+ORD-2025010273,2025-01-10,SKU-1038,CUS-008,Highlands Cafe Chain,South,Modern Trade,Le Minh,97,22.87,0.0,Paid
+ORD-2025010274,2025-01-22,SKU-1040,CUS-009,Lotte Partner,South,E-commerce,Vo Lan,10,12.54,0.05,Overdue
+ORD-2025010275,2025-01-02,SKU-1031,CUS-012,Bien Dong Imports,South,On-Premise,Tran Anh,121,2.27,0.1,Paid
+ORD-2025010276,2025-01-17,SKU-1021,CUS-003,Danang Distribution,Central,Wholesale,Tran Anh,145,1.64,0.1,Overdue
+ORD-2025010277,2025-01-25,SKU-1013,CUS-005,Capital Hotel Group,Central,E-commerce,Dang Mai,124,106.81,0.05,Overdue
+ORD-2025010278,2025-01-16,SKU-1012,CUS-013,Thang Long Spirits,South,General Trade,Tran Anh,21,65.66,0.0,Paid
+ORD-2025010279,2025-01-27,SKU-1014,CUS-015,City Convenience Co.,South,General Trade,Le Minh,375,34.05,0.2,Paid
+ORD-2025010280,2025-01-22,SKU-1007,CUS-008,Highlands Cafe Chain,North,General Trade,Vo Lan,267,43.67,0.0,Paid
+ORD-2025010281,2025-01-26,SKU-1026,CUS-001,Saigon Mart,North,On-Premise,Pham Thuy,249,1.71,0.1,Paid
+ORD-2025010282,2025-01-30,SKU-1039,CUS-008,Highlands Cafe Chain,North,Modern Trade,Hoang Nam,131,20.25,0.0,Paid
+ORD-2025010283,2025-01-29,SKU-1003,CUS-005,Capital Hotel Group,North,Wholesale,Dang Mai,214,127.64,0.05,Paid
+ORD-2025010284,2025-01-23,SKU-1004,CUS-002,Hanoi Retail JSC,North,Modern Trade,Bui Quang,284,79.1,0.2,Paid
+ORD-2025010285,2025-01-03,SKU-1035,CUS-002,Hanoi Retail JSC,South,E-commerce,Le Minh,36,14.37,0.0,Paid
+ORD-2025010286,2025-01-28,SKU-1037,CUS-008,Highlands Cafe Chain,South,Wholesale,Tran Anh,45,8.91,0.0,Paid
+ORD-2025010287,2025-01-28,SKU-1032,CUS-008,Highlands Cafe Chain,north,Modern Trade,Pham Thuy,84,3.32,0.05,Paid
+ORD-2025010288,2025-01-22,SKU-1035,CUS-005,Capital Hotel Group,North,On-Premise,Le Minh,129,14.74,0.05,Paid
+ORD-2025010289,2025-01-12,SKU-1018,CUS-014,Phu Quoc Resorts,South,General Trade,Hoang Nam,-13,23.84,0.0,Overdue
+ORD-2025010290,2025-01-02,SKU-1012,CUS-010,Circle Retail,Central,On-Premise,Vo Lan,386,68.65,0.05,Overdue
+ORD-2025010291,2025-01-05,sku-1010,CUS-015,City Convenience Co.,North,E-commerce,Bui Quang,34,40.72,0.15,Paid
+ORD-2025010292,2025-01-17,SKU-1034,CUS-001,Saigon Mart,South,On-Premise,Hoang Nam,150,1.08,0.0,Overdue
+ORD-2025010293,2025-01-05,SKU-1022,CUS-001,Saigon Mart,Central,General Trade,Le Minh,315,3.76,0.05,Paid
+ORD-2025010294,2025-01-09,SKU-1027,CUS-006,Coastal Bars Ltd,Central,Wholesale,Dang Mai,278,2.25,0.2,Overdue
+ORD-2025010295,2025-01-31,SKU-1031,CUS-002,Hanoi Retail JSC,South,General Trade,Hoang Nam,7,2.31,0.0,Paid
+ORD-2025010296,2025-01-28,SKU-1015,CUS-001,Saigon Mart,South,General Trade,Pham Thuy,375,86.39,0.15,Paid
+ORD-2025010297,2025-01-02,SKU-1026,CUS-012,Bien Dong Imports,north,Wholesale,Le Minh,317,1.53,0.05,Paid
+ORD-2025010298,2025-01-23,SKU-1031,CUS-006,Coastal Bars Ltd,North,E-commerce,Dang Mai,327,2.42,0.05,Paid
+ORD-2025010299,2025-01-18,SKU-1033,CUS-013,Thang Long Spirits,North,Wholesale,Tran Anh,179,2.23,0.05,Pending
+ORD-2025010300,2025-01-07,SKU-1031,CUS-012,Bien Dong Imports,North,General Trade,Vo Lan,397,2.28,0.0,Paid
+ORD-2025010301,2025-01-26,SKU-1031,CUS-012,Bien Dong Imports,Central,Wholesale,Dang Mai,,2.58,0.0,Paid
+ORD-2025010302,2025-01-24,SKU-1020,CUS-007,Metro Foods VN,North,E-commerce,Vo Lan,54,4.45,0.2,Overdue
+ORD-2025010303,2025-01-19,SKU-1003,CUS-009,Lotte Partner,Central,On-Premise,Bui Quang,48,138.54,0.1,Paid
+ORD-2025010304,2025-01-29,SKU-1006,CUS-008,Highlands Cafe Chain,north,Modern Trade,Hoang Nam,6,102.71,0.0,Pending
+ORD-2025010305,2025-01-19,SKU-1009,CUS-005,Capital Hotel Group,South,On-Premise,Hoang Nam,93,92.94,0.2,Overdue
+ORD-2025010306,2025-01-06,SKU-1005,CUS-010,Circle Retail,Central,Modern Trade,Hoang Nam,115,86.64,0.0,Paid
+ORD-2025010307,2025-01-20,SKU-1021,CUS-011,An Phu Trading,North,Wholesale,Pham Thuy,389,1.61,0.05,Overdue
+ORD-2025010308,2025-01-07,SKU-1013,CUS-004,Mekong Wholesale,North,General Trade,Pham Thuy,241,118.02,0.05,Paid
+ORD-2025010309,2025-01-03,SKU-1025,CUS-012,Bien Dong Imports,Central,E-commerce,Dang Mai,321,2.47,0.05,Paid
+ORD-2025010310,2025-01-14,SKU-1033,CUS-008,Highlands Cafe Chain,NORTH ,On-Premise,Dang Mai,229,2.18,0.15,Pending
+ORD-2025010311,2025-01-09,SKU-1001,CUS-008,Highlands Cafe Chain,central,Wholesale,Hoang Nam,61,139.62,0.0,Pending
+ORD-2025010312,2025-01-13,SKU-1014,CUS-014,Phu Quoc Resorts,Central,On-Premise,Pham Thuy,144,33.45,0.0,Paid
+ORD-2025010313,2025-01-09,SKU-1006,CUS-013,Thang Long Spirits,Central,On-Premise,Tran Anh,270,99.92,0.15,Overdue
+ORD-2025010314,2025-01-17,SKU-1024,CUS-005,Capital Hotel Group,North,Modern Trade,Tran Anh,108,1.83,0.15,Paid
+ORD-2025010315,2025-01-26,SKU-1018,CUS-001,Saigon Mart,North,General Trade,Tran Anh,102,22.6,0.2,Paid
+ORD-2025010316,2025-01-17,SKU-1008,CUS-008,Highlands Cafe Chain,North,E-commerce,Dang Mai,216,48.06,0.0,Paid
+ORD-2025010317,2025-01-22,SKU-1010,CUS-007,Metro Foods VN,Central,Modern Trade,Le Minh,232,37.8,0.0,Paid
+ORD-2025010318,2025-01-29,SKU-1033,CUS-014,Phu Quoc Resorts,Central,Wholesale,Le Minh,29,2.2,0.1,Paid
+ORD-2025010319,2025-01-06,SKU-1024,CUS-006,Coastal Bars Ltd,Central,E-commerce,Vo Lan,20,2.05,0.0,Pending
+ORD-2025010320,2025-01-31,SKU-1018,CUS-008,Highlands Cafe Chain,North,E-commerce,Dang Mai,39,21.84,0.0,Paid
+ORD-2025010321,2025-01-05,SKU-1010,CUS-011,An Phu Trading,South,E-commerce,Tran Anh,304,42.42,0.2,Overdue
+ORD-2025010322,2025-01-12,SKU-1029,CUS-009,Lotte Partner,Central,On-Premise,Hoang Nam,272,2.75,0.15,Overdue
+ORD-2025010323,2025-01-30,SKU-1023,CUS-011,An Phu Trading,Central,Wholesale,Hoang Nam,231,6.25,0.0,Paid
+ORD-2025010324,2025-01-15,SKU-1029,CUS-010,Circle Retail,North,Modern Trade,Bui Quang,322,2.45,0.05,Overdue
+ORD-2025010325,2025-01-28,SKU-1024,CUS-004,Mekong Wholesale,South,On-Premise,Tran Anh,301,1.93,0.0,Paid
+ORD-2025010326,2025-01-01,SKU-1038,CUS-008,Highlands Cafe Chain,North,General Trade,Tran Anh,322,22.8,0.0,Paid
+ORD-2025010327,2025-01-21,SKU-1026,CUS-015,City Convenience Co.,Central,E-commerce,Hoang Nam,318,1.56,0.15,Pending
+ORD-2025010328,2025-01-04,SKU-1039,CUS-005,Capital Hotel Group,South,General Trade,Hoang Nam,276,18.75,0.2,Pending
+ORD-2025010329,2025-01-22,sku-1028,CUS-005,Capital Hotel Group,South,Modern Trade,Le Minh,262,1.78,0.0,Paid
+ORD-2025010330,2025-01-05,SKU-1001,CUS-008,Highlands Cafe Chain,north,Modern Trade,Tran Anh,183,157.47,0.1,Overdue
+ORD-2025010331,2025-01-18,SKU-1036,CUS-009,Lotte Partner,South,On-Premise,Dang Mai,173,13.18,0.1,Pending
+ORD-2025010332,2025-01-13,SKU-1025,CUS-009,Lotte Partner,South,General Trade,Tran Anh,56,2.33,0.0,Paid
+ORD-2025010333,2025-01-20,SKU-1023,CUS-008,Highlands Cafe Chain,North,On-Premise,Dang Mai,20,5.9,0.15,Pending
+ORD-2025010334,2025-01-16,SKU-1026,CUS-014,Phu Quoc Resorts,Central,E-commerce,Vo Lan,208,1.63,0.0,Overdue
+ORD-2025010335,2025-01-12,SKU-1018,CUS-010,Circle Retail,Central,Wholesale,Vo Lan,283,21.67,0.2,Pending
+ORD-2025010336,2025-01-01,SKU-1014,CUS-005,Capital Hotel Group,Central,Modern Trade,Vo Lan,269,29.95,0.05,Overdue
+ORD-2025010337,2025-01-04,SKU-2041,CUS-003,Danang Distribution,south,Wholesale,Pham Thuy,146,1.7,0.1,Paid
+ORD-2025010338,2025-01-31,SKU-1023,CUS-015,City Convenience Co.,South,Wholesale,Hoang Nam,61,5.71,0.15,Overdue
+ORD-2025010339,2025-01-30,SKU-1025,CUS-014,Phu Quoc Resorts,North,On-Premise,Tran Anh,295,2.28,0.15,Paid
+ORD-2025010340,2025-01-21,SKU-1019,CUS-014,Phu Quoc Resorts,South,Wholesale,Le Minh,192,56.74,0.0,Paid
+ORD-2025010341,2025-01-13,SKU-1021,CUS-012,Bien Dong Imports,Central,Wholesale,Dang Mai,74,1.64,0.0,Paid
+ORD-2025010342,2025-01-17,SKU-1004,CUS-003,Danang Distribution,Central,On-Premise,Tran Anh,206,70.05,0.05,Paid
+ORD-2025010343,2025-01-09,SKU-1026,CUS-006,Coastal Bars Ltd,North,Wholesale,Tran Anh,133,1.61,0.05,Pending
+ORD-2025010344,2025-01-03,SKU-1035,CUS-005,Capital Hotel Group,Central,Wholesale,Bui Quang,287,15.77,0.0,Overdue
+ORD-2025010345,2025-01-21,SKU-1005,CUS-008,Highlands Cafe Chain,North,Wholesale,Tran Anh,373,73.79,0.0,Paid
+ORD-2025010346,2025-01-14,SKU-1025,CUS-015,City Convenience Co.,South,On-Premise,Vo Lan,35,2.16,0.1,Paid
+ORD-2025010347,2025-01-30,SKU-1026,CUS-001,Saigon Mart,Central,Modern Trade,Pham Thuy,91,1.89,0.0,Paid
+ORD-2025010348,2025-01-31,SKU-1022,CUS-007,Metro Foods VN,South,General Trade,Tran Anh,10,3.38,0.0,Paid
+ORD-2025010349,2025-01-21,SKU-1029,CUS-007,Metro Foods VN,North,On-Premise,Tran Anh,31,2.65,0.05,Paid
+ORD-2025010350,2025-01-09,SKU-1008,CUS-014,Phu Quoc Resorts,Central,On-Premise,Vo Lan,103,46.48,0.2,Paid
+ORD-2025010351,2025-01-31,SKU-1008,CUS-011,An Phu Trading,South,On-Premise,Vo Lan,280,44.51,0.1,Paid
+ORD-2025010352,2025-01-12,SKU-1009,CUS-009,Lotte Partner,North,General Trade,Bui Quang,339,92.2,0.05,Pending
+ORD-2025010353,2025-01-22,SKU-1006,CUS-008,Highlands Cafe Chain,North,General Trade,Tran Anh,137,112.82,0.0,Paid
+ORD-2025010354,2025-01-17,SKU-1026,CUS-013,Thang Long Spirits,North,General Trade,Le Minh,161,1.78,0.15,Paid
+ORD-2025010355,2025-01-14,SKU-1024,CUS-010,Circle Retail,North,Wholesale,Dang Mai,353,2.0,0.0,Overdue
+ORD-2025010356,2025-01-06,SKU-1033,CUS-007,Metro Foods VN,Central,On-Premise,Dang Mai,183,2.31,0.0,Paid
+ORD-2025010357,2025-01-15,SKU-1022,CUS-001,Saigon Mart,Ctrl,E-commerce,Tran Anh,193,3.27,0.0,Paid
+ORD-2025010358,2025-01-07,SKU-1009,CUS-009,Lotte Partner,Central,E-commerce,Hoang Nam,121,89.51,0.0,Overdue
+ORD-2025010359,2025-01-21,SKU-1004,CUS-009,Lotte Partner,South,General Trade,Pham Thuy,249,77.88,0.15,Paid
+ORD-2025010360,2025-01-09,SKU-1015,CUS-013,Thang Long Spirits,Central,On-Premise,Hoang Nam,320,106.62,0.05,Paid
+ORD-2025010361,2025-01-02,SKU-1021,CUS-008,Highlands Cafe Chain,South,E-commerce,Vo Lan,24,1.45,0.05,Paid
+ORD-2025010362,2025-01-16,SKU-1031,CUS-011,An Phu Trading,Central,General Trade,Bui Quang,18,2.34,0.0,Paid
+ORD-2025010363,2025-01-04,SKU-1028,CUS-015,City Convenience Co.,North,General Trade,Hoang Nam,191,1.97,0.05,Paid
+ORD-2025010364,2025-01-03,SKU-1009,CUS-004,Mekong Wholesale,Central,General Trade,Pham Thuy,161,83.89,0.2,Paid
+ORD-2025010365,2025-01-13,SKU-1022,CUS-004,Mekong Wholesale,South,General Trade,Pham Thuy,287,3.85,0.15,Overdue
+ORD-2025010366,2025-01-21,SKU-1007,CUS-011,An Phu Trading,South,E-commerce,Hoang Nam,367,44.07,0.0,Paid
+ORD-2025010367,2025-01-30,SKU-1020,CUS-015,City Convenience Co.,Central,Wholesale,Tran Anh,396,3.94,0.05,Overdue
+ORD-2025010368,2025-01-04,SKU-1003,CUS-013,Thang Long Spirits,North,E-commerce,Dang Mai,301,139.03,0.1,Paid
+ORD-2025010369,2025-01-24,SKU-1028,CUS-004,Mekong Wholesale,North,Modern Trade,Tran Anh,37,1.88,0.1,Paid
+ORD-2025010370,2025-01-06,SKU-1031,CUS-006,Coastal Bars Ltd,South,General Trade,Vo Lan,243,2.34,0.1,Overdue
+ORD-2025010371,2025-01-22,SKU-1002,CUS-011,An Phu Trading,North,On-Premise,Pham Thuy,323,99.67,0.15,Overdue
+ORD-2025010372,2025-01-26,SKU-1019,CUS-008,Highlands Cafe Chain,Central,General Trade,Pham Thuy,13,56.06,0.0,Paid
+ORD-2025010373,2025-01-05,SKU-1008,CUS-011,An Phu Trading,north,On-Premise,Hoang Nam,203,48.04,0.2,Paid
+ORD-2025010374,2025-01-09,SKU-1038,CUS-011,An Phu Trading,North,On-Premise,Hoang Nam,318,23.5,0.0,Overdue
+ORD-2025010375,2025-01-22,SKU-1035,CUS-008,Highlands Cafe Chain,Central,Wholesale,Pham Thuy,,14.65,0.1,Pending
+ORD-2025010376,2025-01-05,SKU-1038,CUS-003,Danang Distribution,South,General Trade,Dang Mai,243,21.49,0.15,Paid
+ORD-2025010377,2025-01-17,SKU-1033,CUS-003,Danang Distribution,Central,General Trade,Vo Lan,328,2.13,0.05,Pending
+ORD-2025010378,2025-01-01,SKU-1016,CUS-009,Lotte Partner,South,Wholesale,Le Minh,210,43.62,0.0,Paid
+ORD-2025010379,2025-01-14,SKU-1025,CUS-001,Saigon Mart,South,On-Premise,Bui Quang,362,2.19,0.05,Overdue
+ORD-2025010380,2025-01-18,SKU-1001,CUS-012,Bien Dong Imports,North,Wholesale,Vo Lan,376,158.79,0.1,Paid
+ORD-2025010381,2025-01-09,SKU-1001,CUS-009,Lotte Partner,South,Modern Trade,Le Minh,274,162.2,0.05,Overdue
+ORD-2025010382,2025-01-24,SKU-1029,CUS-008,Highlands Cafe Chain,Ctrl,Modern Trade,Vo Lan,264,2.69,0.15,Overdue
+ORD-2025010383,2025-01-17,SKU-1013,CUS-011,An Phu Trading,North,Wholesale,Vo Lan,357,111.64,0.2,Pending
+ORD-2025010384,2025-01-19,SKU-1029,CUS-007,Metro Foods VN,South,Modern Trade,Le Minh,70,2.71,0.1,Paid
+ORD-2025010385,2025-01-23,SKU-1037,CUS-012,Bien Dong Imports,North,General Trade,Hoang Nam,46,7.78,0.15,Overdue
+ORD-2025010386,2025-01-23,SKU-1022,CUS-004,Mekong Wholesale,North,On-Premise,Le Minh,146,3.68,0.0,Paid
+ORD-2025010387,2025-01-27,SKU-1032,CUS-008,Highlands Cafe Chain,North,E-commerce,Hoang Nam,362,3.6,0.05,Pending
+ORD-2025010388,2025-01-06,SKU-1026,CUS-001,Saigon Mart,North,Modern Trade,Dang Mai,311,1.53,0.1,Paid
+ORD-2025010389,2025-01-09,SKU-1013,CUS-004,Mekong Wholesale,North,General Trade,Pham Thuy,219,101.12,0.0,Overdue
+ORD-2025010390,2025-01-10,SKU-1033,CUS-013,Thang Long Spirits,South,On-Premise,Bui Quang,332,2.11,0.05,Paid
+ORD-2025010391,2025-01-09,SKU-1013,CUS-009,Lotte Partner,North,E-commerce,Pham Thuy,200,120.31,0.05,Paid
+ORD-2025010392,2025-01-31,SKU-1037,CUS-010,Circle Retail,North,General Trade,Vo Lan,235,8.25,0.1,Paid
+ORD-2025010393,2025-01-12,SKU-1014,CUS-013,Thang Long Spirits,North,General Trade,Vo Lan,399,31.09,0.2,Paid
+ORD-2025010394,2025-01-21,SKU-1038,CUS-008,Highlands Cafe Chain,Central,On-Premise,Vo Lan,332,24.28,0.15,Pending
+ORD-2025010395,2025-01-23,SKU-1010,CUS-005,Capital Hotel Group,South,E-commerce,Pham Thuy,307,43.62,0.05,Pending
+ORD-2025010396,2025-01-04,SKU-1001,CUS-006,Coastal Bars Ltd,North,On-Premise,Le Minh,-20,146.94,0.05,Paid
+ORD-2025010397,2025-01-05,SKU-1033,CUS-007,Metro Foods VN,Central,E-commerce,Bui Quang,237,2.03,0.05,Paid
+ORD-2025010398,2025-01-08,SKU-1013,CUS-010,Circle Retail,South,E-commerce,Le Minh,219,117.74,0.05,Paid
+ORD-2025010399,2025-01-18,SKU-1039,CUS-011,An Phu Trading,South,On-Premise,Vo Lan,130,19.37,0.0,Paid
+ORD-2025010400,2025-01-01,SKU-1027,CUS-002,Hanoi Retail JSC,CENTRAL ,Modern Trade,Le Minh,168,2.12,0.2,Pending
+ORD-2025010401,2025-01-31,SKU-1005,CUS-011,An Phu Trading,North,Modern Trade,Tran Anh,5,83.63,0.15,Pending
+ORD-2025010402,2025-01-17,SKU-1029,CUS-010,Circle Retail,South,Modern Trade,Tran Anh,351,2.72,0.15,Paid
+ORD-2025010403,2025-01-02,SKU-1038,CUS-009,Lotte Partner,North,Wholesale,Vo Lan,148,25.2,0.2,Paid
+ORD-2025010404,2025-01-26,SKU-1020,CUS-010,Circle Retail,South,E-commerce,Dang Mai,271,4.59,0.1,Paid
+ORD-2025010405,2025-01-20,SKU-1035,CUS-004,Mekong Wholesale,South,E-commerce,Pham Thuy,88,13.34,0.2,Paid
+ORD-2025010406,2025-01-01,SKU-1017,CUS-010,Circle Retail,South,General Trade,Vo Lan,299,87.57,0.0,Paid
+ORD-2025010407,2025-01-31,SKU-1018,CUS-005,Capital Hotel Group,South,On-Premise,Hoang Nam,118,23.79,0.1,Paid
+ORD-2025010408,2025-01-09,SKU-1009,CUS-014,Phu Quoc Resorts,South,E-commerce,Vo Lan,114,88.71,0.15,Paid
+ORD-2025010409,2025-01-09,SKU-1025,CUS-005,Capital Hotel Group,SOUTH ,E-commerce,Bui Quang,139,2.2,0.05,Paid
+ORD-2025010410,2025-01-04,SKU-1001,CUS-006,Coastal Bars Ltd,North,E-commerce,Dang Mai,80,158.92,0.0,Paid
+ORD-2025010411,2025-01-25,SKU-1027,CUS-002,Hanoi Retail JSC,South,Wholesale,Le Minh,47,2.31,0.15,Overdue
+ORD-2025010412,2025-01-13,SKU-1019,CUS-002,Hanoi Retail JSC,Central,Wholesale,Pham Thuy,159,55.64,0.15,Overdue
+ORD-2025010413,2025-01-02,SKU-1002,CUS-010,Circle Retail,North,Modern Trade,Vo Lan,35,85.09,0.0,Pending
+ORD-2025010414,2025-01-11,SKU-1030,CUS-001,Saigon Mart,North,On-Premise,Bui Quang,310,3.31,0.1,Pending
+ORD-2025010415,2025-01-27,SKU-1016,CUS-011,An Phu Trading,North,On-Premise,Dang Mai,311,39.51,0.2,Paid
+ORD-2025010416,2025-01-09,SKU-1006,CUS-008,Highlands Cafe Chain,Central,Modern Trade,Pham Thuy,190,118.15,0.15,Paid
+ORD-2025010417,2025-01-18,SKU-1035,CUS-006,Coastal Bars Ltd,North,On-Premise,Pham Thuy,181,14.64,0.15,Paid
+ORD-2025010418,2025-01-24,SKU-1014,CUS-001,Saigon Mart,Central,Modern Trade,Pham Thuy,164,35.42,0.2,Paid
+ORD-2025010419,2025-01-24,SKU-1008,CUS-001,Saigon Mart,North,E-commerce,Le Minh,94,40.41,0.0,Paid
+ORD-2025010420,2025-01-17,SKU-1018,CUS-014,Phu Quoc Resorts,North,General Trade,Hoang Nam,16,24.29,0.0,Paid
+ORD-2025010421,2025-01-13,SKU-1017,CUS-001,Saigon Mart,North,On-Premise,Hoang Nam,369,90.91,0.05,Pending
+ORD-2025010422,2025-01-03,SKU-1023,CUS-001,Saigon Mart,Central,E-commerce,Le Minh,,5.6,0.05,Paid
+ORD-2025010423,2025-01-03,SKU-1032,CUS-010,Circle Retail,Central,Wholesale,Tran Anh,236,3.21,0.1,Pending
+ORD-2025010424,2025-01-11,SKU-1006,CUS-013,Thang Long Spirits,North,Wholesale,Dang Mai,203,108.47,0.0,Pending
+ORD-2025010425,2025-01-27,SKU-1023,CUS-007,Metro Foods VN,Central,Modern Trade,Hoang Nam,326,5.79,0.05,Paid
+ORD-2025010426,2025-01-13,SKU-1024,CUS-013,Thang Long Spirits,Central,E-commerce,Pham Thuy,16,2.05,0.0,Overdue
+ORD-2025010427,2025-01-18,SKU-1019,CUS-005,Capital Hotel Group,Central,E-commerce,Pham Thuy,163,61.51,0.15,Overdue
+ORD-2025010428,2025-01-06,SKU-1024,CUS-010,Circle Retail,South,E-commerce,Bui Quang,-3,1.89,0.0,Overdue
+ORD-2025010429,2025-01-14,SKU-1018,CUS-005,Capital Hotel Group,Central,On-Premise,Le Minh,51,22.55,0.1,Paid
+ORD-2025010430,2025-01-23,SKU-1014,CUS-002,Hanoi Retail JSC,North,Wholesale,Vo Lan,253,32.65,0.0,Overdue
+ORD-2025010431,2025-01-09,SKU-1012,CUS-014,Phu Quoc Resorts,North,General Trade,Tran Anh,85,68.28,0.05,Paid
+ORD-2025010432,2025-01-22,SKU-1028,CUS-008,Highlands Cafe Chain,South,General Trade,Pham Thuy,158,1.85,0.15,Pending
+ORD-2025010433,2025-01-12,SKU-1014,CUS-013,Thang Long Spirits,North,Wholesale,Pham Thuy,258,32.22,0.2,Paid
+ORD-2025010434,2025-01-09,SKU-1008,CUS-008,Highlands Cafe Chain,South,On-Premise,Vo Lan,317,41.42,0.2,Overdue
+ORD-2025010435,2025-01-05,SKU-1028,CUS-008,Highlands Cafe Chain,North,On-Premise,Tran Anh,320,1.98,0.0,Overdue
+ORD-2025010436,2025-01-11,SKU-1016,CUS-012,Bien Dong Imports,Central,Wholesale,Dang Mai,158,44.14,0.1,Paid
+ORD-2025010437,2025-01-06,SKU-1014,CUS-005,Capital Hotel Group,South,On-Premise,Bui Quang,346,33.51,0.1,Pending
+ORD-2025010438,2025-01-05,SKU-1036,CUS-011,An Phu Trading,Central,Modern Trade,Pham Thuy,26,12.37,0.05,Overdue
+ORD-2025010439,2025-01-02,SKU-1024,CUS-010,Circle Retail,South,General Trade,Bui Quang,249,1.92,0.0,Paid
+ORD-2025010440,2025-01-27,SKU-1004,CUS-006,Coastal Bars Ltd,North,Modern Trade,Le Minh,197,66.1,0.0,Paid
+ORD-2025010441,2025-01-01,SKU-1014,CUS-009,Lotte Partner,Ctrl,Modern Trade,Pham Thuy,276,32.37,0.15,Paid
+ORD-2025010442,2025-01-07,SKU-1013,CUS-014,Phu Quoc Resorts,South,General Trade,Bui Quang,68,115.37,0.05,Paid
+ORD-2025010443,2025-01-07,SKU-2034,CUS-013,Thang Long Spirits,North,E-commerce,Vo Lan,240,8.34,0.2,Paid
+ORD-2025010444,2025-01-18,SKU-1025,CUS-004,Mekong Wholesale,South,Wholesale,Le Minh,263,2.44,0.05,Overdue
+ORD-2025010445,2025-01-13,SKU-1025,CUS-008,Highlands Cafe Chain,South,E-commerce,Le Minh,120,2.39,0.2,Paid
+ORD-2025010446,2025-01-19,SKU-1037,CUS-008,Highlands Cafe Chain,Central,General Trade,Vo Lan,316,7.55,0.05,Paid
+ORD-2025010447,2025-01-01,SKU-1003,CUS-001,Saigon Mart,North,E-commerce,Pham Thuy,358,148.32,0.0,Paid
+ORD-2025010448,2025-01-07,SKU-1006,CUS-007,Metro Foods VN,North,On-Premise,Tran Anh,324,102.65,0.15,Overdue
+ORD-2025010449,2025-01-14,SKU-1032,CUS-002,Hanoi Retail JSC,Central,General Trade,Vo Lan,222,3.1,0.1,Paid
+ORD-2025010450,2025-01-29,SKU-1013,CUS-005,Capital Hotel Group,Central,Modern Trade,Pham Thuy,157,108.53,0.0,Paid
+ORD-2025010451,2025-01-15,SKU-1024,CUS-015,City Convenience Co.,Central,On-Premise,Le Minh,143,2.07,0.05,Paid
+ORD-2025010452,2025-01-12,SKU-1003,CUS-008,Highlands Cafe Chain,South,E-commerce,Dang Mai,332,135.92,0.0,Paid
+ORD-2025010453,2025-01-12,SKU-1001,CUS-009,Lotte Partner,South,E-commerce,Dang Mai,345,133.29,0.2,Pending
+ORD-2025010454,2025-01-24,SKU-1034,CUS-013,Thang Long Spirits,North,E-commerce,Bui Quang,142,1.14,0.0,Paid
+ORD-2025010455,2025-01-04,SKU-1007,CUS-010,Circle Retail,South,Modern Trade,Vo Lan,250,48.29,0.15,Paid
+ORD-2025010456,2025-01-19,SKU-1002,CUS-012,Bien Dong Imports,South,Modern Trade,Pham Thuy,372,101.49,0.0,Overdue
+ORD-2025010457,2025-01-16,SKU-1009,CUS-001,Saigon Mart,Central,Wholesale,Le Minh,227,90.01,0.0,Overdue
+ORD-2025010458,2025-01-03,SKU-1037,CUS-012,Bien Dong Imports,North,Modern Trade,Le Minh,393,7.51,0.05,Paid
+ORD-2025010459,2025-01-11,SKU-1013,CUS-007,Metro Foods VN,South,Wholesale,Hoang Nam,54,117.74,0.05,Paid
+ORD-2025010460,2025-01-10,SKU-1031,CUS-010,Circle Retail,South,E-commerce,Bui Quang,377,2.31,0.0,Pending
+ORD-2025010461,2025-01-01,SKU-1039,CUS-008,Highlands Cafe Chain,central,General Trade,Tran Anh,271,17.42,0.1,Paid
+ORD-2025010462,2025-01-14,SKU-1037,CUS-004,Mekong Wholesale,South,Modern Trade,Vo Lan,51,8.11,0.2,Pending
+ORD-2025010463,2025-01-24,SKU-1040,CUS-004,Mekong Wholesale,South,Modern Trade,Pham Thuy,-29,11.98,0.0,Pending
+ORD-2025010464,2025-01-03,SKU-1036,CUS-004,Mekong Wholesale,South,Wholesale,Vo Lan,182,11.76,0.0,Paid
+ORD-2025010465,2025-01-16,SKU-1004,CUS-007,Metro Foods VN,North,E-commerce,Hoang Nam,,69.62,0.0,Overdue
+ORD-2025010466,2025-01-25,SKU-1008,CUS-007,Metro Foods VN,South,E-commerce,Bui Quang,77,45.02,0.0,Paid
+ORD-2025010467,2025-01-31,SKU-1013,CUS-015,City Convenience Co.,Central,Modern Trade,Hoang Nam,169,111.73,0.0,Pending
+ORD-2025010468,2025-01-02,SKU-1002,CUS-013,Thang Long Spirits,Central,Wholesale,Pham Thuy,172,97.06,0.0,Paid
+ORD-2025010469,2025-01-13,SKU-1006,CUS-004,Mekong Wholesale,North,Wholesale,Dang Mai,55,117.55,0.2,Paid
+ORD-2025010470,2025-01-26,SKU-1017,CUS-006,Coastal Bars Ltd,South,On-Premise,Bui Quang,75,91.52,0.2,Overdue
+ORD-2025010471,2025-01-06,SKU-1016,CUS-003,Danang Distribution,South,Wholesale,Pham Thuy,203,43.99,0.05,Paid
+ORD-2025010472,2025-01-21,SKU-1040,CUS-009,Lotte Partner,Central,General Trade,Bui Quang,41,13.79,0.05,Paid
+ORD-2025010473,2025-01-06,SKU-1001,CUS-009,Lotte Partner,North,Wholesale,Tran Anh,154,152.48,0.05,Pending
+ORD-2025010474,2025-01-11,SKU-1022,CUS-001,Saigon Mart,North,On-Premise,Hoang Nam,39,3.16,0.0,Paid
+ORD-2025010475,2025-01-17,SKU-1006,CUS-012,Bien Dong Imports,Central,On-Premise,Bui Quang,108,105.68,0.1,Paid
+ORD-2025010476,2025-01-25,SKU-1029,CUS-010,Circle Retail,North,General Trade,Vo Lan,21,2.47,0.05,Paid
+ORD-2025010477,2025-01-22,SKU-1029,CUS-012,Bien Dong Imports,North,On-Premise,Bui Quang,214,2.82,0.1,Pending
+ORD-2025010478,2025-01-19,SKU-1026,CUS-006,Coastal Bars Ltd,Central,E-commerce,Bui Quang,61,1.87,0.0,Paid
+ORD-2025010479,2025-01-13,SKU-1032,CUS-009,Lotte Partner,North,Wholesale,Le Minh,238,3.16,0.05,Pending
+ORD-2025010480,2025-01-23,SKU-1024,CUS-013,Thang Long Spirits,South,E-commerce,Dang Mai,79,1.86,0.0,Paid
+ORD-2025010481,2025-01-13,SKU-1019,CUS-007,Metro Foods VN,Central,Modern Trade,Hoang Nam,52,55.88,0.05,Paid
+ORD-2025010482,2025-01-22,SKU-1021,CUS-011,An Phu Trading,Central,General Trade,Le Minh,223,1.5,0.15,Paid
+ORD-2025010483,2025-01-16,SKU-1034,CUS-011,An Phu Trading,North,E-commerce,Bui Quang,123,0.97,0.05,Paid
+ORD-2025010484,2025-01-11,SKU-1040,CUS-008,Highlands Cafe Chain,North,Modern Trade,Le Minh,260,14.35,0.0,Pending
+ORD-2025010485,2025-01-01,SKU-1015,CUS-005,Capital Hotel Group,Central,General Trade,Le Minh,205,89.53,0.15,Paid
+ORD-2025010486,2025-01-05,SKU-1007,CUS-013,Thang Long Spirits,North,Wholesale,Tran Anh,331,47.2,0.0,Paid
+ORD-2025010487,2025-01-02,SKU-1023,CUS-015,City Convenience Co.,South,Modern Trade,Tran Anh,12,5.9,0.1,Pending
+ORD-2025010488,2025-01-04,SKU-1031,CUS-012,Bien Dong Imports,North,Wholesale,Hoang Nam,60,2.54,0.1,Paid
+ORD-2025010489,2025-01-19,SKU-1038,CUS-001,Saigon Mart,North,Modern Trade,Hoang Nam,212,21.12,0.05,Paid
+ORD-2025010490,2025-01-11,SKU-1002,CUS-014,Phu Quoc Resorts,South,Wholesale,Vo Lan,167,97.3,0.2,Paid
+ORD-2025010491,2025-01-26,SKU-1014,CUS-014,Phu Quoc Resorts,South,General Trade,Le Minh,223,29.95,0.0,Paid
+ORD-2025010492,2025-01-20,SKU-1022,CUS-006,Coastal Bars Ltd,Central,On-Premise,Tran Anh,238,3.47,0.1,Paid
+ORD-2025010493,2025-01-12,SKU-1005,CUS-008,Highlands Cafe Chain,North,E-commerce,Hoang Nam,255,82.42,0.05,Paid
+ORD-2025010494,2025-01-09,SKU-1038,CUS-005,Capital Hotel Group,North,Wholesale,Bui Quang,140,22.85,0.05,Overdue
+ORD-2025010495,2025-01-12,SKU-1031,CUS-008,Highlands Cafe Chain,central,Modern Trade,Dang Mai,267,2.5,0.05,Paid
+ORD-2025010496,2025-01-09,SKU-1029,CUS-010,Circle Retail,North,On-Premise,Dang Mai,30,2.67,0.0,Overdue
+ORD-2025010497,2025-01-27,SKU-1013,CUS-005,Capital Hotel Group,North,General Trade,Pham Thuy,253,106.25,0.0,Pending
+ORD-2025010498,2025-01-21,SKU-1029,CUS-003,Danang Distribution,north,Modern Trade,Vo Lan,202,2.38,0.0,Overdue
+ORD-2025010499,2025-01-19,SKU-1027,CUS-008,Highlands Cafe Chain,South,On-Premise,Pham Thuy,381,2.26,0.1,Paid
+ORD-2025010500,2025-01-10,SKU-1038,CUS-010,Circle Retail,Central,E-commerce,Vo Lan,8,25.67,0.0,Paid
+ORD-2025010501,2025-01-06,SKU-1023,CUS-007,Metro Foods VN,North,On-Premise,Dang Mai,215,5.8,0.05,Paid
+ORD-2025010502,2025-01-14,SKU-1024,CUS-001,Saigon Mart,South,General Trade,Hoang Nam,252,2.18,0.2,Pending
+ORD-2025010503,2025-01-31,SKU-1003,CUS-009,Lotte Partner,Central,Wholesale,Le Minh,351,127.49,0.05,Pending
+ORD-2025010504,2025-01-10,SKU-1029,CUS-003,Danang Distribution,North,Modern Trade,Pham Thuy,269,2.34,0.0,Paid
+ORD-2025010505,2025-01-06,SKU-1016,CUS-001,Saigon Mart,Central,Wholesale,Tran Anh,309,38.14,0.05,Overdue
+ORD-2025010506,2025-01-28,SKU-1029,CUS-009,Lotte Partner,Central,General Trade,Vo Lan,365,2.72,0.1,Paid
+ORD-2025010507,2025-01-17,SKU-1001,CUS-001,Saigon Mart,North,Wholesale,Tran Anh,241,151.76,0.2,Paid
+ORD-2025010508,2025-01-27,SKU-1025,CUS-009,Lotte Partner,Central,Wholesale,Dang Mai,233,2.52,0.05,Paid
+ORD-2025010509,2025-01-27,SKU-1007,CUS-013,Thang Long Spirits,Nth,E-commerce,Tran Anh,385,43.78,0.15,Paid
+ORD-2025010510,2025-01-17,SKU-1007,CUS-012,Bien Dong Imports,North,Modern Trade,Vo Lan,342,43.7,0.15,Paid
+ORD-2025010511,2025-01-30,SKU-1031,CUS-013,Thang Long Spirits,South,E-commerce,Le Minh,249,2.72,0.05,Overdue
+ORD-2025010512,2025-01-22,SKU-1017,CUS-003,Danang Distribution,North,Wholesale,Dang Mai,44,86.81,0.1,Overdue
+ORD-2025010513,2025-01-31,SKU-1033,CUS-015,City Convenience Co.,North,General Trade,Pham Thuy,65,2.39,0.0,Pending
+ORD-2025010514,2025-01-05,SKU-1037,CUS-010,Circle Retail,North,Wholesale,Tran Anh,289,9.09,0.0,Pending
+ORD-2025010515,2025-01-16,SKU-1003,CUS-007,Metro Foods VN,South,General Trade,Le Minh,304,128.29,0.05,Paid
+ORD-2025010516,2025-01-19,SKU-1031,CUS-008,Highlands Cafe Chain,North,Modern Trade,Tran Anh,364,2.45,0.1,Paid
+ORD-2025010517,2025-01-30,SKU-1015,CUS-013,Thang Long Spirits,South,Modern Trade,Dang Mai,337,87.13,0.0,Pending
+ORD-2025010518,2025-01-22,SKU-1015,CUS-011,An Phu Trading,Central,Wholesale,Tran Anh,188,101.36,0.15,Overdue
+ORD-2025010519,2025-01-31,SKU-1033,CUS-012,Bien Dong Imports,South,General Trade,Le Minh,72,2.21,0.0,Pending
+ORD-2025010520,2025-01-29,SKU-1023,CUS-006,Coastal Bars Ltd,South,E-commerce,Bui Quang,227,5.93,0.15,Overdue
+ORD-2025010521,2025-01-12,SKU-1003,CUS-012,Bien Dong Imports,North,On-Premise,Bui Quang,199,131.72,0.05,Paid
+ORD-2025010522,2025-01-11,SKU-1021,CUS-011,An Phu Trading,Central,E-commerce,Hoang Nam,149,1.53,0.0,Paid
+ORD-2025010523,2025-01-17,SKU-1033,CUS-013,Thang Long Spirits,North,E-commerce,Hoang Nam,96,2.19,0.0,Paid
+ORD-2025010524,2025-01-07,SKU-1038,CUS-005,Capital Hotel Group,Central,On-Premise,Le Minh,356,21.62,0.2,Pending
+ORD-2025010525,2025-01-22,sku-1040,CUS-015,City Convenience Co.,NORTH ,E-commerce,Bui Quang,337,12.48,0.05,Paid
+ORD-2025010526,2025-01-19,SKU-1012,CUS-010,Circle Retail,South,E-commerce,Pham Thuy,331,67.53,0.05,Pending
+ORD-2025010527,2025-01-18,SKU-1012,CUS-002,Hanoi Retail JSC,North,On-Premise,Vo Lan,178,69.3,0.0,Paid
+ORD-2025010528,2025-01-07,SKU-1029,CUS-015,City Convenience Co.,Central,Modern Trade,Hoang Nam,67,2.84,0.15,Paid
+ORD-2025010529,2025-01-10,sku-1021,CUS-011,An Phu Trading,South,Modern Trade,Bui Quang,181,1.45,0.05,Pending
+ORD-2025010530,2025-01-05,SKU-1034,CUS-007,Metro Foods VN,Central,E-commerce,Vo Lan,120,0.96,0.05,Paid
+ORD-2025010531,2025-01-18,SKU-1012,CUS-010,Circle Retail,South,E-commerce,Dang Mai,100,75.91,0.0,Overdue
+ORD-2025010532,2025-01-10,SKU-1020,CUS-003,Danang Distribution,South,Wholesale,Tran Anh,23,4.06,0.05,Paid
+ORD-2025010533,2025-01-03,SKU-1012,CUS-009,Lotte Partner,Central,Wholesale,Bui Quang,95,76.96,0.1,Overdue
+ORD-2025010534,2025-01-02,SKU-1007,CUS-001,Saigon Mart,Central,General Trade,Dang Mai,142,43.18,0.05,Paid
+ORD-2025010535,2025-01-07,SKU-1026,CUS-007,Metro Foods VN,South,Wholesale,Le Minh,36,1.78,0.0,Paid
+ORD-2025010536,2025-01-08,SKU-1006,CUS-005,Capital Hotel Group,Central,E-commerce,Pham Thuy,23,119.7,0.1,Paid
+ORD-2025010537,2025-01-22,SKU-1031,CUS-001,Saigon Mart,Central,Modern Trade,Hoang Nam,104,2.4,0.15,Paid
+ORD-2025010538,2025-01-02,SKU-1022,CUS-015,City Convenience Co.,Central,Modern Trade,Vo Lan,385,3.4,0.15,Paid
+ORD-2025010539,2025-01-30,SKU-1034,CUS-008,Highlands Cafe Chain,Central,On-Premise,Hoang Nam,224,1.08,0.0,Overdue
+ORD-2025010540,2025-01-27,SKU-1004,CUS-013,Thang Long Spirits,south,E-commerce,Tran Anh,252,68.39,0.05,Overdue
+ORD-2025010541,2025-01-16,SKU-1030,CUS-008,Highlands Cafe Chain,South,E-commerce,Dang Mai,55,2.91,0.15,Paid
+ORD-2025010542,2025-01-29,SKU-1018,CUS-006,Coastal Bars Ltd,north,Modern Trade,Dang Mai,397,22.97,0.1,Paid
+ORD-2025010543,2025-01-26,SKU-2075,CUS-012,Bien Dong Imports,South,Wholesale,Hoang Nam,158,22.88,0.05,Paid
+ORD-2025010544,2025-01-23,SKU-1018,CUS-012,Bien Dong Imports,north,General Trade,Le Minh,374,26.02,0.0,Pending
+ORD-2025010545,2025-01-20,SKU-1012,CUS-003,Danang Distribution,South,General Trade,Pham Thuy,197,66.64,0.0,Overdue
+ORD-2025010546,2025-01-03,SKU-1002,CUS-002,Hanoi Retail JSC,South,E-commerce,Vo Lan,263,87.97,0.0,Paid
+ORD-2025010547,2025-01-02,SKU-1027,CUS-002,Hanoi Retail JSC,South,Wholesale,Le Minh,100,2.02,0.0,Paid
+ORD-2025010548,2025-01-02,SKU-1025,CUS-011,An Phu Trading,Ctrl,Modern Trade,Hoang Nam,13,2.19,0.1,Paid
+ORD-2025010549,2025-01-27,SKU-1029,CUS-007,Metro Foods VN,North,Wholesale,Le Minh,150,2.52,0.05,Paid
+ORD-2025010550,2025-01-07,SKU-1039,CUS-008,Highlands Cafe Chain,Central,On-Premise,Dang Mai,188,20.12,0.0,Paid
+ORD-2025010551,2025-01-11,SKU-1010,CUS-005,Capital Hotel Group,South,Modern Trade,Le Minh,51,41.36,0.0,Paid
+ORD-2025010552,2025-01-09,SKU-1014,CUS-010,Circle Retail,North,Modern Trade,Hoang Nam,278,33.58,0.0,Paid
+ORD-2025010553,2025-01-19,SKU-1017,CUS-012,Bien Dong Imports,South,Wholesale,Bui Quang,322,91.12,0.15,Paid
+ORD-2025010554,2025-01-07,SKU-1004,CUS-005,Capital Hotel Group,North,Modern Trade,Vo Lan,7,79.8,0.05,Overdue
+ORD-2025010555,2025-01-21,SKU-1029,CUS-007,Metro Foods VN,North,E-commerce,Pham Thuy,172,2.54,0.0,Overdue
+ORD-2025010556,2025-01-17,SKU-1028,CUS-015,City Convenience Co.,central,Wholesale,Hoang Nam,158,1.9,0.15,Paid
+ORD-2025010557,2025-01-23,SKU-1028,CUS-010,Circle Retail,North,Wholesale,Dang Mai,81,1.78,0.05,Pending
+ORD-2025010558,2025-01-19,SKU-1006,CUS-001,Saigon Mart,Central,General Trade,Hoang Nam,199,106.56,0.0,Paid
+ORD-2025010559,2025-01-09,SKU-1006,CUS-013,Thang Long Spirits,Central,E-commerce,Vo Lan,241,109.71,0.0,Pending
+ORD-2025010560,2025-01-12,SKU-1008,CUS-014,Phu Quoc Resorts,North,Modern Trade,Tran Anh,228,42.65,0.05,Paid
+ORD-2025010561,2025-01-15,SKU-1019,CUS-014,Phu Quoc Resorts,South,Wholesale,Hoang Nam,144,60.07,0.0,Overdue
+ORD-2025010562,2025-01-16,SKU-1023,CUS-007,Metro Foods VN,North,Modern Trade,Tran Anh,204,5.82,0.0,Paid
+ORD-2025010563,2025-01-12,SKU-1007,CUS-004,Mekong Wholesale,North,General Trade,Vo Lan,368,47.57,0.1,Paid
+ORD-2025010564,2025-01-03,SKU-1036,CUS-007,Metro Foods VN,South,General Trade,Bui Quang,77,11.07,0.0,Overdue
+ORD-2025010565,2025-01-15,sku-1025,CUS-009,Lotte Partner,North,Modern Trade,Vo Lan,88,2.12,0.05,Pending
+ORD-2025010566,2025-01-22,SKU-1012,CUS-015,City Convenience Co.,South,E-commerce,Hoang Nam,88,75.5,0.2,Overdue
+ORD-2025010567,2025-01-29,SKU-1039,CUS-015,City Convenience Co.,North,E-commerce,Dang Mai,259,18.16,0.2,Paid
+ORD-2025010568,2025-01-27,SKU-1021,CUS-013,Thang Long Spirits,North,On-Premise,Bui Quang,31,1.73,0.0,Paid
+ORD-2025010569,2025-01-30,SKU-1006,CUS-011,An Phu Trading,North,On-Premise,Dang Mai,198,106.16,0.1,Overdue
+ORD-2025010570,2025-01-09,SKU-1005,CUS-013,Thang Long Spirits,South,General Trade,Pham Thuy,32,79.67,0.0,Paid
+ORD-2025010571,2025-01-15,SKU-1035,CUS-006,Coastal Bars Ltd,Central,General Trade,Vo Lan,286,15.44,0.0,Paid
+ORD-2025010572,2025-01-13,SKU-1012,CUS-007,Metro Foods VN,South,E-commerce,Vo Lan,365,71.15,0.15,Pending
+ORD-2025010573,2025-01-09,SKU-1015,CUS-005,Capital Hotel Group,North,On-Premise,Hoang Nam,142,88.99,0.2,Overdue
+ORD-2025010574,2025-01-28,SKU-1015,CUS-006,Coastal Bars Ltd,Central,On-Premise,Dang Mai,115,92.15,0.0,Pending
+ORD-2025010575,2025-01-07,SKU-1027,CUS-014,Phu Quoc Resorts,South,On-Premise,Le Minh,349,2.07,0.0,Overdue
+ORD-2025010576,2025-01-17,SKU-1012,CUS-006,Coastal Bars Ltd,North,On-Premise,Vo Lan,394,76.1,0.0,Paid
+ORD-2025010577,2025-01-25,SKU-1001,CUS-009,Lotte Partner,South,Modern Trade,Le Minh,5,155.17,0.1,Overdue
+ORD-2025010578,2025-01-04,SKU-1008,CUS-007,Metro Foods VN,North,On-Premise,Hoang Nam,197,43.94,0.2,Paid
+ORD-2025010579,2025-01-07,SKU-1025,CUS-011,An Phu Trading,Central,On-Premise,Pham Thuy,314,2.15,0.0,Paid
+ORD-2025010580,2025-01-05,SKU-1019,CUS-009,Lotte Partner,Central,On-Premise,Dang Mai,210,55.74,0.05,Overdue
+ORD-2025010581,2025-01-27,SKU-1031,CUS-008,Highlands Cafe Chain,Central,Wholesale,Bui Quang,94,2.45,0.0,Pending
+ORD-2025010582,2025-01-12,SKU-1031,CUS-014,Phu Quoc Resorts,Central,General Trade,Vo Lan,394,2.48,0.1,Paid
+ORD-2025010583,2025-01-23,SKU-1007,CUS-012,Bien Dong Imports,South,General Trade,Pham Thuy,342,52.31,0.15,Overdue
+ORD-2025010584,2025-01-25,SKU-1017,CUS-011,An Phu Trading,Central,Modern Trade,Le Minh,362,92.42,0.15,Pending
+ORD-2025010585,2025-01-24,SKU-1040,CUS-014,Phu Quoc Resorts,North,Wholesale,Dang Mai,105,14.53,0.0,Paid
+ORD-2025010586,2025-01-21,SKU-1027,CUS-005,Capital Hotel Group,south,E-commerce,Hoang Nam,104,2.42,0.05,Paid
+ORD-2025010587,2025-01-11,SKU-1022,CUS-014,Phu Quoc Resorts,North,Modern Trade,Tran Anh,23,3.71,0.0,Paid
+ORD-2025010588,2025-01-25,SKU-1007,CUS-001,Saigon Mart,Central,Wholesale,Vo Lan,303,47.23,0.0,Paid
+ORD-2025010589,2025-01-02,SKU-1004,CUS-006,Coastal Bars Ltd,north,General Trade,Le Minh,207,81.36,0.0,Pending
+ORD-2025010590,2025-01-24,SKU-1002,CUS-007,Metro Foods VN,North,Modern Trade,Hoang Nam,370,102.45,0.1,Pending
+ORD-2025010591,2025-01-17,SKU-1003,CUS-013,Thang Long Spirits,North,On-Premise,Dang Mai,115,150.6,0.2,Paid
+ORD-2025010592,2025-01-25,SKU-1007,CUS-011,An Phu Trading,North,E-commerce,Tran Anh,55,52.21,0.05,Paid
+ORD-2025010593,2025-01-14,SKU-1029,CUS-009,Lotte Partner,Central,E-commerce,Pham Thuy,281,2.64,0.0,Paid
+ORD-2025010594,2025-01-08,SKU-1025,CUS-007,Metro Foods VN,South,General Trade,Bui Quang,379,2.33,0.05,Pending
+ORD-2025010595,2025-01-08,SKU-1002,CUS-015,City Convenience Co.,North,On-Premise,Bui Quang,278,103.96,0.15,Paid
+ORD-2025010596,2025-01-25,SKU-1010,CUS-002,Hanoi Retail JSC,central,Wholesale,Le Minh,399,36.21,0.0,Pending
+ORD-2025010597,2025-01-27,SKU-2010,CUS-008,Highlands Cafe Chain,South,On-Premise,Hoang Nam,70,3.43,0.0,Paid
+ORD-2025010598,2025-01-27,SKU-1001,CUS-005,Capital Hotel Group,central,General Trade,Le Minh,-6,150.76,0.2,Paid
+ORD-2025010599,2025-01-07,SKU-1027,CUS-011,An Phu Trading,Central,Wholesale,Tran Anh,318,2.32,0.0,Pending
+ORD-2025010600,2025-01-02,SKU-1016,CUS-009,Lotte Partner,North,E-commerce,Vo Lan,41,44.45,0.0,Paid
+ORD-2025010601,2025-01-10,SKU-1024,CUS-015,City Convenience Co.,Central,On-Premise,Dang Mai,153,2.16,0.0,Paid
+ORD-2025010602,2025-01-13,SKU-1014,CUS-013,Thang Long Spirits,South,E-commerce,Bui Quang,317,34.98,0.15,Paid
+ORD-2025010603,2025-01-12,SKU-1026,CUS-008,Highlands Cafe Chain,Central,E-commerce,Pham Thuy,177,1.69,0.05,Pending
+ORD-2025010604,2025-01-05,SKU-1036,CUS-009,Lotte Partner,North,Modern Trade,Dang Mai,322,12.17,0.2,Pending
+ORD-2025010605,2025-01-02,SKU-1036,CUS-013,Thang Long Spirits,North,General Trade,Hoang Nam,53,11.6,0.0,Pending
+ORD-2025010606,2025-01-15,SKU-1040,CUS-014,Phu Quoc Resorts,Central,On-Premise,Hoang Nam,235,14.15,0.05,Overdue
+ORD-2025010607,2025-01-10,SKU-1002,CUS-010,Circle Retail,Central,E-commerce,Hoang Nam,251,91.67,0.05,Paid
+ORD-2025010608,2025-01-03,SKU-1005,CUS-005,Capital Hotel Group,North,Modern Trade,Bui Quang,33,85.44,0.05,Paid
+ORD-2025010609,2025-01-25,  SKU-1025 ,CUS-015,City Convenience Co.,South,On-Premise,Pham Thuy,136,2.12,0.15,Paid
+ORD-2025010610,2025-01-30,SKU-1004,CUS-002,Hanoi Retail JSC,Central,Modern Trade,Vo Lan,78,80.08,0.0,Paid
+ORD-2025010611,2025-01-14,SKU-1015,CUS-012,Bien Dong Imports,North,On-Premise,Dang Mai,22,100.14,0.1,Paid
+ORD-2025010612,2025-01-25,SKU-1026,CUS-008,Highlands Cafe Chain,South,Modern Trade,Pham Thuy,39,1.72,0.05,Paid
+ORD-2025010613,2025-01-12,SKU-1003,CUS-009,Lotte Partner,Central,E-commerce,Le Minh,156,145.14,0.0,Paid
+ORD-2025010614,2025-01-03,SKU-1019,CUS-004,Mekong Wholesale,South,E-commerce,Pham Thuy,34,58.69,0.1,Paid
+ORD-2025010615,2025-01-24,SKU-1005,CUS-009,Lotte Partner,Central,On-Premise,Pham Thuy,199,84.08,0.15,Paid
+ORD-2025010616,2025-01-03,SKU-1039,CUS-012,Bien Dong Imports,North,Modern Trade,Pham Thuy,46,19.91,0.0,Paid
+ORD-2025010617,2025-01-06,SKU-1001,CUS-015,City Convenience Co.,South,Wholesale,Hoang Nam,18,133.04,0.1,Overdue
+ORD-2025010618,2025-01-23,SKU-1025,CUS-009,Lotte Partner,Central,E-commerce,Dang Mai,111,2.4,0.05,Paid
+ORD-2025010619,2025-01-31,SKU-1029,CUS-011,An Phu Trading,North,E-commerce,Tran Anh,242,2.54,0.05,Paid
+ORD-2025010620,2025-01-13,SKU-1039,CUS-009,Lotte Partner,South,General Trade,Le Minh,14,18.2,0.0,Paid
+ORD-2025010621,2025-01-04,SKU-1034,CUS-014,Phu Quoc Resorts,North,General Trade,Pham Thuy,145,1.08,0.1,Paid
+ORD-2025010622,2025-01-17,SKU-1027,CUS-002,Hanoi Retail JSC,Central,On-Premise,Hoang Nam,377,2.04,0.0,Overdue
+ORD-2025010623,2025-01-02,SKU-1020,CUS-006,Coastal Bars Ltd,South,Wholesale,Dang Mai,173,4.34,0.0,Pending
+ORD-2025010624,2025-01-15,SKU-1014,CUS-004,Mekong Wholesale,North,Wholesale,Dang Mai,235,31.65,0.0,Pending
+ORD-2025010625,2025-01-17,SKU-1034,CUS-005,Capital Hotel Group,Central,Wholesale,Bui Quang,324,1.1,0.0,Pending
+ORD-2025010626,2025-01-18,SKU-1027,CUS-013,Thang Long Spirits,South,Modern Trade,Vo Lan,40,2.36,0.0,Paid
+ORD-2025010627,2025-01-14,SKU-1022,CUS-006,Coastal Bars Ltd,Central,General Trade,Le Minh,127,3.66,0.2,Paid
+ORD-2025010628,2025-01-09,SKU-1028,CUS-001,Saigon Mart,South,E-commerce,Le Minh,350,1.83,0.0,Paid
+ORD-2025010629,2025-01-19,SKU-1032,CUS-012,Bien Dong Imports,South,E-commerce,Bui Quang,356,3.07,0.2,Pending
+ORD-2025010630,2025-01-14,SKU-1029,CUS-015,City Convenience Co.,Central,General Trade,Dang Mai,120,2.53,0.0,Pending
+ORD-2025010631,2025-01-03,SKU-1009,CUS-009,Lotte Partner,Central,On-Premise,Bui Quang,310,102.19,0.0,Paid
+ORD-2025010632,2025-01-26,SKU-1002,CUS-012,Bien Dong Imports,South,E-commerce,Dang Mai,21,90.44,0.2,Overdue
+ORD-2025010633,2025-01-20,SKU-2005,CUS-009,Lotte Partner,North,Modern Trade,Tran Anh,306,2.36,0.2,Overdue
+ORD-2025010634,2025-01-23,SKU-1036,CUS-013,Thang Long Spirits,Central,E-commerce,Hoang Nam,241,12.18,0.15,Overdue
+ORD-2025010635,2025-01-04,SKU-1003,CUS-009,Lotte Partner,North,On-Premise,Le Minh,161,137.04,0.1,Paid
+ORD-2025010636,2025-01-01,SKU-1002,CUS-009,Lotte Partner,Central,Wholesale,Dang Mai,195,96.04,0.0,Paid
+ORD-2025010637,2025-01-21,SKU-2060,CUS-004,Mekong Wholesale,North,General Trade,Hoang Nam,70,2.45,0.0,Overdue
+ORD-2025010638,2025-01-07,SKU-1038,CUS-007,Metro Foods VN,North,Modern Trade,Dang Mai,392,23.66,0.2,Paid
+ORD-2025010639,2025-01-10,SKU-1014,CUS-004,Mekong Wholesale,South,On-Premise,Le Minh,156,33.19,0.0,Paid
+ORD-2025010640,2025-01-14,SKU-1007,CUS-003,Danang Distribution,North,Modern Trade,Bui Quang,353,49.84,0.1,Paid
+ORD-2025010133,2025-01-13,SKU-1035,CUS-001,Saigon Mart,Central,General Trade,Tran Anh,299,14.39,0.05,Pending
+ORD-2025010623,2025-01-02,SKU-1020,CUS-006,Coastal Bars Ltd,South,Wholesale,Dang Mai,173,4.34,0.0,Pending
+ORD-2025010526,2025-01-19,SKU-1012,CUS-010,Circle Retail,South,E-commerce,Pham Thuy,331,67.53,0.05,Pending
