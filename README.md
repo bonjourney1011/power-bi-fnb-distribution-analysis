@@ -19,7 +19,7 @@ South regions of Vietnam. One model serves three audiences: **sales**, **finance
 | Where does revenue come from? | **Spirits 59.7%** and **Wine 32.9%** of $9.96M — 92.6% combined. Channels are evenly split (19–21% each). |
 | Which products make money — and which only look big? | Crystal Peak Whisky 1000ml leads gross profit ($579K, 51% margin). Two high-revenue SKUs sell below list price with **35–39% margins**. |
 | What drove the month-on-month change? | Revenue **+11.2%** (Jan → Feb): Spirits +13.1%, a channel shift (On-Premise +38%, Wholesale −25.5%) and February promotions (340 promo orders, $2.3M). |
-| Are targets being met? | Achievement is ~1,500% for every category — a **data issue, not a performance story**: targets are on a different scale than revenue. Flagged for the operations team to confirm the target unit. |
+| Are targets being met? | Overall achievement is ~1,500% (Spirits 2,378%, Wine 1,972%) — a **data issue, not a performance story**: targets are on a different scale than revenue. Flagged for the operations team to confirm the target unit. |
 | What needs restocking now? | **8 active SKUs** are below reorder point, all with stock cover shorter than their lead time — including the #1 profit product (44 units, 60-day lead time). |
 | Where is cash at risk? | **20.6%** of orders ($1.27M) are overdue; four key accounts sit above 27%. Proposed tiered payment terms by overdue rate. |
 
